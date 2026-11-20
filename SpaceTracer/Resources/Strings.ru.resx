@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="App.AdminTitle" xml:space="preserve"><value>WinTracer — администратор</value></data>
+  <data name="App.ErrorTitle" xml:space="preserve"><value>WinTracer — ошибка</value></data>
+  <data name="App.MSTeams" xml:space="preserve"><value>Teams</value></data>
+  <data name="App.Microsoft.549981C3F5F10" xml:space="preserve"><value>Cortana</value></data>
+  <data name="App.Microsoft.BingNews" xml:space="preserve"><value>Новости</value></data>
+  <data name="App.Microsoft.BingWeather" xml:space="preserve"><value>Погода</value></data>
+  <data name="App.Microsoft.Clipchamp" xml:space="preserve"><value>Clipchamp</value></data>
+  <data name="App.Microsoft.Copilot" xml:space="preserve"><value>Copilot</value></data>
+  <data name="App.Microsoft.DevHome" xml:space="preserve"><value>Dev Home</value></data>
+  <data name="App.Microsoft.GetHelp" xml:space="preserve"><value>Техническая поддержка</value></data>
+  <data name="App.Microsoft.Getstarted" xml:space="preserve"><value>Советы</value></data>
+  <data name="App.Microsoft.MicrosoftSolitaireCollection" xml:space="preserve"><value>Microsoft Solitaire Collection</value></data>
+  <data name="App.Microsoft.OutlookForWindows" xml:space="preserve"><value>Outlook (новый)</value></data>
+  <data name="App.Microsoft.Paint" xml:space="preserve"><value>Paint</value></data>
+  <data name="App.Microsoft.People" xml:space="preserve"><value>Люди</value></data>
+  <data name="App.Microsoft.Todos" xml:space="preserve"><value>Microsoft To Do</value></data>
+  <data name="App.Microsoft.WindowsAlarms" xml:space="preserve"><value>Часы и будильник</value></data>
+  <data name="App.Microsoft.WindowsCamera" xml:space="preserve"><value>Камера</value></data>
+  <data name="App.Microsoft.WindowsFeedbackHub" xml:space="preserve"><value>Центр отзывов</value></data>
+  <data name="App.Microsoft.WindowsMaps" xml:space="preserve"><value>Карты</value></data>
+  <data name="App.Microsoft.WindowsSoundRecorder" xml:space="preserve"><value>Звукозапись</value></data>
+  <data name="App.Microsoft.Xbox.TCUI" xml:space="preserve"><value>Xbox TCUI</value></data>
+  <data name="App.Microsoft.Xbox.TCUI.Warning" xml:space="preserve"><value>Нужен для друзей и приглашений Xbox в играх.</value></data>
+  <data name="App.Microsoft.XboxGameOverlay" xml:space="preserve"><value>Xbox Game Overlay</value></data>
+  <data name="App.Microsoft.XboxGamingOverlay" xml:space="preserve"><value>Xbox Game Bar</value></data>
+  <data name="App.Microsoft.XboxGamingOverlay.Warning" xml:space="preserve"><value>Пропадут оверлей Win+G, запись экрана и счётчик FPS.</value></data>
+  <data name="App.Microsoft.XboxIdentityProvider" xml:space="preserve"><value>Xbox Identity Provider</value></data>
+  <data name="App.Microsoft.XboxIdentityProvider.Warning" xml:space="preserve"><value>Без него не работает вход в Xbox-аккаунт в играх (Minecraft, Game Pass).</value></data>
+  <data name="App.Microsoft.XboxSpeechToTextOverlay" xml:space="preserve"><value>Xbox — преобразование речи в текст</value></data>
+  <data name="App.Microsoft.YourPhone" xml:space="preserve"><value>Связь с телефоном</value></data>
+  <data name="App.Microsoft.ZuneMusic" xml:space="preserve"><value>Медиаплеер</value></data>
+  <data name="App.Microsoft.ZuneMusic.Warning" xml:space="preserve"><value>Стандартный проигрыватель музыки и видео в Windows 11.</value></data>
+  <data name="App.Microsoft.ZuneVideo" xml:space="preserve"><value>Кино и ТВ</value></data>
+  <data name="App.MicrosoftTeams" xml:space="preserve"><value>Teams (личный)</value></data>
+  <data name="Cleanup.AnalyzeCancelled" xml:space="preserve"><value>Анализ отменён</value></data>
+  <data name="Cleanup.Analyzing" xml:space="preserve"><value>Анализ…</value></data>
+  <data name="Cleanup.AndMore" xml:space="preserve"><value>
+… и ещё {0}</value></data>
+  <data name="Cleanup.Cleaning" xml:space="preserve"><value>Очистка…</value></data>
+  <data name="Cleanup.CleaningItem" xml:space="preserve"><value>Очистка: {0}</value></data>
+  <data name="Cleanup.ConfirmButton" xml:space="preserve"><value>Очистить</value></data>
+  <data name="Cleanup.ConfirmText" xml:space="preserve"><value>Будет очищено примерно {0}:
+
+{1}</value></data>
+  <data name="Cleanup.ConfirmTitle" xml:space="preserve"><value>Очистка</value></data>
+  <data name="Cleanup.DismExit" xml:space="preserve"><value>DISM завершился с кодом {0}</value></data>
+  <data name="Cleanup.Empty" xml:space="preserve"><value>Пусто</value></data>
+  <data name="Cleanup.ErrorPrefix" xml:space="preserve"><value>Ошибка: {0}</value></data>
+  <data name="Cleanup.Freed" xml:space="preserve"><value>Освобождено {0}</value></data>
+  <data name="Cleanup.Irreversible" xml:space="preserve"><value>
+
+Удаление необратимо (в корзину файлы не попадут).</value></data>
+  <data name="Cleanup.NothingSelected" xml:space="preserve"><value>Ничего не выбрано</value></data>
+  <data name="Cleanup.RecycleSizeUnknown" xml:space="preserve"><value>Не удалось определить размер корзины</value></data>
+  <data name="Cleanup.ResultErrors" xml:space="preserve"><value> Ошибок: {0}.</value></data>
+  <data name="Cleanup.ResultFreed" xml:space="preserve"><value>Освобождено {0}.</value></data>
+  <data name="Cleanup.ResultSkipped" xml:space="preserve"><value> Пропущено файлов: {0:N0} — они заняты запущенными программами; закройте их и повторите.</value></data>
+  <data name="Cleanup.Running" xml:space="preserve"><value>Запущено: {0} — занятые файлы будут пропущены</value></data>
+  <data name="Cleanup.Searching" xml:space="preserve"><value>Поиск данных…</value></data>
+  <data name="Cleanup.Selected" xml:space="preserve"><value>Выбрано: {0} · {1}</value></data>
+  <data name="Cleanup.SizeAfterClean" xml:space="preserve"><value>Размер станет известен после очистки</value></data>
+  <data name="Cleanup.SkippedShort" xml:space="preserve"><value> · пропущено {0:N0} (заняты или нет прав)</value></data>
+  <data name="Cleanup.Stopped" xml:space="preserve"><value>Очистка остановлена. Освобождено {0}.</value></data>
+  <data name="Cleanup.UnknownSize" xml:space="preserve"><value> + неизвестный объём</value></data>
+  <data name="Cleanup.ai.antigravity.cache.Description" xml:space="preserve"><value>Кэш Electron, CachedData, скачанные VSIX, отчёты о сбоях агента. Беседы (conversations) и база знаний (brain) не затрагиваются.</value></data>
+  <data name="Cleanup.ai.antigravity.cache.Title" xml:space="preserve"><value>Antigravity — кэш интерфейса и логи</value></data>
+  <data name="Cleanup.ai.antigravity.updates.Description" xml:space="preserve"><value>%LOCALAPPDATA%\antigravity-updater: установщик и ожидающее обновление (скачаются заново).</value></data>
+  <data name="Cleanup.ai.antigravity.updates.Title" xml:space="preserve"><value>Antigravity — загруженные обновления</value></data>
+  <data name="Cleanup.ai.claude-code.cache.Description" xml:space="preserve"><value>~/.claude: telemetry, cache, debug, shell-snapshots; кэш claude-cli-nodejs. Авторизация, настройки, память, навыки и плагины не затрагиваются.</value></data>
+  <data name="Cleanup.ai.claude-code.cache.Title" xml:space="preserve"><value>Claude Code — телеметрия, кэш и отладочные логи</value></data>
+  <data name="Cleanup.ai.claude-code.file-history.Description" xml:space="preserve"><value>~/.claude/file-history: снимки файлов для /rewind.</value></data>
+  <data name="Cleanup.ai.claude-code.file-history.Title" xml:space="preserve"><value>Claude Code — точки отката старше 30 дней</value></data>
+  <data name="Cleanup.ai.claude-code.file-history.Warning" xml:space="preserve"><value>Откатить правки в сессиях старше 30 дней будет нельзя.</value></data>
+  <data name="Cleanup.ai.claude-code.sessions.Description" xml:space="preserve"><value>~/.claude/projects: журналы диалогов. Папки memory (память проектов) не трогаются.</value></data>
+  <data name="Cleanup.ai.claude-code.sessions.Title" xml:space="preserve"><value>Claude Code — история сессий старше 60 дней</value></data>
+  <data name="Cleanup.ai.claude-code.sessions.Warning" xml:space="preserve"><value>Старые сессии пропадут из /resume.</value></data>
+  <data name="Cleanup.ai.claude-code.versions.Description" xml:space="preserve"><value>~/.local/share/claude/versions: остаются две последние версии и запущенная.</value></data>
+  <data name="Cleanup.ai.claude-code.versions.Title" xml:space="preserve"><value>Claude Code — старые версии</value></data>
+  <data name="Cleanup.ai.claude-desktop.cache.Description" xml:space="preserve"><value>Кэш Electron (Cache, Code Cache, GPU/шейдеры) и логи старше 7 дней. Виртуальная машина (vm_bundles) и данные сессий не затрагиваются.</value></data>
+  <data name="Cleanup.ai.claude-desktop.cache.Title" xml:space="preserve"><value>Claude Desktop — кэш интерфейса и логи</value></data>
+  <data name="Cleanup.ai.claude-desktop.versions.Description" xml:space="preserve"><value>claude-code и claude-code-vm в Claude-Data: остаётся последняя и запущенная.</value></data>
+  <data name="Cleanup.ai.claude-desktop.versions.Title" xml:space="preserve"><value>Claude Desktop — старые версии встроенного Claude Code</value></data>
+  <data name="Cleanup.ai.codex-desktop.cache.Description" xml:space="preserve"><value>Кэш встроенного Chromium: страницы, шейдеры, компоненты, отчёты о сбоях.</value></data>
+  <data name="Cleanup.ai.codex-desktop.cache.Title" xml:space="preserve"><value>Codex Desktop — кэш интерфейса</value></data>
+  <data name="Cleanup.ai.codex.cache.Description" xml:space="preserve"><value>~/.codex: cache, tmp, log. auth.json, config.toml, базы и память не затрагиваются.</value></data>
+  <data name="Cleanup.ai.codex.cache.Title" xml:space="preserve"><value>Codex — кэш, временные файлы и логи</value></data>
+  <data name="Cleanup.ai.codex.sessions.Description" xml:space="preserve"><value>~/.codex/sessions и archived_sessions: файлы rollout-*.jsonl.</value></data>
+  <data name="Cleanup.ai.codex.sessions.Title" xml:space="preserve"><value>Codex — история сессий старше 60 дней</value></data>
+  <data name="Cleanup.ai.codex.sessions.Warning" xml:space="preserve"><value>Старые сессии нельзя будет продолжить через resume.</value></data>
+  <data name="Cleanup.ai.opencode-desktop.cache.Description" xml:space="preserve"><value>Кэш Electron, compile-cache, логи и скачанные установщики обновлений.</value></data>
+  <data name="Cleanup.ai.opencode-desktop.cache.Title" xml:space="preserve"><value>OpenCode Desktop — кэш интерфейса и загруженные обновления</value></data>
+  <data name="Cleanup.ai.opencode.cache.Description" xml:space="preserve"><value>~/.local/share/opencode/log и tool-output, ~/.cache/opencode. auth.json, база сессий и снимки отмены не затрагиваются.</value></data>
+  <data name="Cleanup.ai.opencode.cache.Title" xml:space="preserve"><value>OpenCode — логи, кэш и вывод инструментов</value></data>
+  <data name="Cleanup.app.discord.Description" xml:space="preserve"><value>Кэш картинок, скриптов и шейдеров.</value></data>
+  <data name="Cleanup.app.discord.Title" xml:space="preserve"><value>Discord — кэш</value></data>
+  <data name="Cleanup.app.steam.Description" xml:space="preserve"><value>htmlcache и журналы клиента Steam.</value></data>
+  <data name="Cleanup.app.steam.Title" xml:space="preserve"><value>Steam — кэш браузера и логи</value></data>
+  <data name="Cleanup.app.vscode.Description" xml:space="preserve"><value>Кэш интерфейса, CachedData, скачанные VSIX.</value></data>
+  <data name="Cleanup.app.vscode.Title" xml:space="preserve"><value>Visual Studio Code — кэш и логи</value></data>
+  <data name="Cleanup.br.brave.Description" xml:space="preserve"><value>Кэш страниц, скриптов и шейдеров всех профилей.</value></data>
+  <data name="Cleanup.br.brave.Title" xml:space="preserve"><value>Brave — кэш</value></data>
+  <data name="Cleanup.br.chrome.Description" xml:space="preserve"><value>Кэш страниц, скриптов и шейдеров всех профилей.</value></data>
+  <data name="Cleanup.br.chrome.Title" xml:space="preserve"><value>Google Chrome — кэш</value></data>
+  <data name="Cleanup.br.edge.Description" xml:space="preserve"><value>Кэш страниц, скриптов и шейдеров всех профилей.</value></data>
+  <data name="Cleanup.br.edge.Title" xml:space="preserve"><value>Microsoft Edge — кэш</value></data>
+  <data name="Cleanup.br.firefox.Description" xml:space="preserve"><value>cache2, startupCache и эскизы всех профилей.</value></data>
+  <data name="Cleanup.br.firefox.Title" xml:space="preserve"><value>Mozilla Firefox — кэш</value></data>
+  <data name="Cleanup.br.opera.Description" xml:space="preserve"><value>Кэш страниц, скриптов и шейдеров.</value></data>
+  <data name="Cleanup.br.opera.Title" xml:space="preserve"><value>Opera — кэш</value></data>
+  <data name="Cleanup.br.yandex.Description" xml:space="preserve"><value>Кэш страниц, скриптов и шейдеров всех профилей.</value></data>
+  <data name="Cleanup.br.yandex.Title" xml:space="preserve"><value>Яндекс Браузер — кэш</value></data>
+  <data name="Cleanup.dev.npm.Description" xml:space="preserve"><value>Кэш скачанных пакетов; восстанавливается при следующей установке.</value></data>
+  <data name="Cleanup.dev.npm.Title" xml:space="preserve"><value>npm / Yarn — кэш</value></data>
+  <data name="Cleanup.dev.nuget.Description" xml:space="preserve"><value>Скачанные метаданные и пакеты (v3-cache, plugins-cache). Установленные пакеты не трогаются.</value></data>
+  <data name="Cleanup.dev.nuget.Title" xml:space="preserve"><value>NuGet — HTTP-кэш</value></data>
+  <data name="Cleanup.dev.python.Description" xml:space="preserve"><value>Кэш скачанных Python-пакетов.</value></data>
+  <data name="Cleanup.dev.python.Title" xml:space="preserve"><value>pip / uv — кэш</value></data>
+  <data name="Cleanup.sys.delivery-opt.Description" xml:space="preserve"><value>Копии обновлений для раздачи другим ПК в сети.</value></data>
+  <data name="Cleanup.sys.delivery-opt.Title" xml:space="preserve"><value>Кэш оптимизации доставки</value></data>
+  <data name="Cleanup.sys.logs.Description" xml:space="preserve"><value>CBS, DISM и журналы обслуживания старше 7 дней.</value></data>
+  <data name="Cleanup.sys.logs.Title" xml:space="preserve"><value>Журналы установки Windows</value></data>
+  <data name="Cleanup.sys.recycle-bin.Description" xml:space="preserve"><value>Окончательно удаляет всё содержимое корзины на всех дисках.</value></data>
+  <data name="Cleanup.sys.recycle-bin.Title" xml:space="preserve"><value>Корзина</value></data>
+  <data name="Cleanup.sys.recycle-bin.Warning" xml:space="preserve"><value>Восстановить удалённые файлы будет нельзя.</value></data>
+  <data name="Cleanup.sys.shader-cache.Description" xml:space="preserve"><value>D3DSCache, NVIDIA DXCache/GLCache, AMD DxCache.</value></data>
+  <data name="Cleanup.sys.shader-cache.Title" xml:space="preserve"><value>Кэш шейдеров DirectX и видеодрайвера</value></data>
+  <data name="Cleanup.sys.shader-cache.Warning" xml:space="preserve"><value>Игры перестроят кэш при первом запуске — возможны кратковременные подтормаживания.</value></data>
+  <data name="Cleanup.sys.system-dumps.Description" xml:space="preserve"><value>MEMORY.DMP, Minidump, LiveKernelReports и общие отчёты об ошибках.</value></data>
+  <data name="Cleanup.sys.system-dumps.Title" xml:space="preserve"><value>Системные дампы памяти и отчёты WER</value></data>
+  <data name="Cleanup.sys.thumbcache.Description" xml:space="preserve"><value>Пересоздаётся автоматически. Используемые Проводником файлы пропускаются.</value></data>
+  <data name="Cleanup.sys.thumbcache.Title" xml:space="preserve"><value>Кэш эскизов Проводника</value></data>
+  <data name="Cleanup.sys.user-dumps.Description" xml:space="preserve"><value>CrashDumps и отчёты Windows Error Reporting текущего пользователя.</value></data>
+  <data name="Cleanup.sys.user-dumps.Title" xml:space="preserve"><value>Дампы и отчёты о сбоях программ</value></data>
+  <data name="Cleanup.sys.user-temp.Description" xml:space="preserve"><value>%TEMP%: файлы старше суток. Занятые программами пропускаются.</value></data>
+  <data name="Cleanup.sys.user-temp.Title" xml:space="preserve"><value>Временные файлы пользователя</value></data>
+  <data name="Cleanup.sys.windows-temp.Description" xml:space="preserve"><value>C:\Windows\Temp: файлы старше суток.</value></data>
+  <data name="Cleanup.sys.windows-temp.Title" xml:space="preserve"><value>Временные файлы Windows</value></data>
+  <data name="Cleanup.sys.winsxs.Description" xml:space="preserve"><value>Штатная очистка через DISM /StartComponentCleanup: удаляет заменённые версии компонентов.</value></data>
+  <data name="Cleanup.sys.winsxs.Title" xml:space="preserve"><value>Хранилище компонентов WinSxS</value></data>
+  <data name="Cleanup.sys.winsxs.Warning" xml:space="preserve"><value>Занимает несколько минут. После неё нельзя откатить уже установленные обновления.</value></data>
+  <data name="Cleanup.sys.wu-download.Description" xml:space="preserve"><value>Уже установленные пакеты обновлений (SoftwareDistribution\Download), старше 3 дней.</value></data>
+  <data name="Cleanup.sys.wu-download.Title" xml:space="preserve"><value>Загрузки Windows Update</value></data>
+  <data name="CleanupGroup.AiTools" xml:space="preserve"><value>Нейросети и AI-инструменты</value></data>
+  <data name="CleanupGroup.Applications" xml:space="preserve"><value>Приложения</value></data>
+  <data name="CleanupGroup.Browsers" xml:space="preserve"><value>Браузеры</value></data>
+  <data name="CleanupGroup.Development" xml:space="preserve"><value>Кэши разработки</value></data>
+  <data name="CleanupGroup.System" xml:space="preserve"><value>Система</value></data>
+  <data name="CleanupPage.AdminMessage" xml:space="preserve"><value>Системные папки (C:\Windows\Temp, Windows Update, дампы, WinSxS) можно очистить после перезапуска с правами администратора — кнопка в разделе «Настройки» или «Место на дисках».</value></data>
+  <data name="CleanupPage.AdminTitle" xml:space="preserve"><value>Часть пунктов требует прав администратора</value></data>
+  <data name="CleanupPage.CleanSelected" xml:space="preserve"><value>Очистить выбранное</value></data>
+  <data name="CleanupPage.Done" xml:space="preserve"><value>Готово</value></data>
+  <data name="CleanupPage.Reanalyze" xml:space="preserve"><value>Повторить анализ</value></data>
+  <data name="CleanupPage.Recommended" xml:space="preserve"><value>Рекомендуемое</value></data>
+  <data name="CleanupPage.SelectNone" xml:space="preserve"><value>Снять всё</value></data>
+  <data name="CleanupPage.Stop" xml:space="preserve"><value>Стоп</value></data>
+  <data name="Common.AsAdmin" xml:space="preserve"><value>От администратора</value></data>
+  <data name="Common.Backups" xml:space="preserve"><value>Резервные копии</value></data>
+  <data name="Common.Cancel" xml:space="preserve"><value>Отмена</value></data>
+  <data name="Common.Continue" xml:space="preserve"><value>Продолжить</value></data>
+  <data name="Common.CopyPath" xml:space="preserve"><value>Копировать путь</value></data>
+  <data name="Common.Delete" xml:space="preserve"><value>Удалить</value></data>
+  <data name="Common.ExitCode" xml:space="preserve"><value>код {0}</value></data>
+  <data name="Common.NeedsAdmin" xml:space="preserve"><value>Нужны права администратора</value></data>
+  <data name="Common.NoAccess" xml:space="preserve"><value>нет прав — запустите от администратора</value></data>
+  <data name="Common.Off" xml:space="preserve"><value>Откл</value></data>
+  <data name="Common.On" xml:space="preserve"><value>Вкл</value></data>
+  <data name="Common.Open" xml:space="preserve"><value>Открыть</value></data>
+  <data name="Common.Refresh" xml:space="preserve"><value>Обновить</value></data>
+  <data name="Common.ShowInExplorer" xml:space="preserve"><value>Показать в Проводнике</value></data>
+  <data name="Disk.AlreadyThere" xml:space="preserve"><value>Объекты уже находятся в этой папке.</value></data>
+  <data name="Disk.Blocked" xml:space="preserve"><value>Нельзя {0} «{1}»: {2}.</value></data>
+  <data name="Disk.Cancelled" xml:space="preserve"><value>Сканирование отменено.</value></data>
+  <data name="Disk.DeleteButton" xml:space="preserve"><value>Удалить навсегда</value></data>
+  <data name="Disk.DeleteConfirm" xml:space="preserve"><value>Удалить {0} без возможности восстановления?</value></data>
+  <data name="Disk.DeleteTitle" xml:space="preserve"><value>Безвозвратное удаление</value></data>
+  <data name="Disk.Deleted" xml:space="preserve"><value>Удалено: {0}.</value></data>
+  <data name="Disk.Kind.File" xml:space="preserve"><value>Файл</value></data>
+  <data name="Disk.Kind.Folder" xml:space="preserve"><value>Папка</value></data>
+  <data name="Disk.Kind.Link" xml:space="preserve"><value>Ссылка</value></data>
+  <data name="Disk.LocalDrive" xml:space="preserve"><value>Локальный диск</value></data>
+  <data name="Disk.ManyItems" xml:space="preserve"><value>{0} объектов ({1})</value></data>
+  <data name="Disk.MoveAnyway" xml:space="preserve"><value>{0}
+
+Всё равно переместить {1} в {2}?</value></data>
+  <data name="Disk.MoveButton" xml:space="preserve"><value>Переместить</value></data>
+  <data name="Disk.MoveIntoSelf" xml:space="preserve"><value>Нельзя переместить папку внутрь самой себя.</value></data>
+  <data name="Disk.MoveTitle" xml:space="preserve"><value>Перемещение</value></data>
+  <data name="Disk.MoveWhere" xml:space="preserve"><value>Куда переместить: {0}</value></data>
+  <data name="Disk.Moved" xml:space="preserve"><value>Перемещено: {0} → {1}.</value></data>
+  <data name="Disk.MovedInside" xml:space="preserve"><value> Папка назначения внутри анализируемой области — пересканируйте, чтобы увидеть её новый размер.</value></data>
+  <data name="Disk.OneItem" xml:space="preserve"><value>«{0}» ({1})</value></data>
+  <data name="Disk.PartialFail" xml:space="preserve"><value>Часть объектов не удалось обработать (заняты другим процессом или нет прав).</value></data>
+  <data name="Disk.PickFolder" xml:space="preserve"><value>Выберите папку для анализа</value></data>
+  <data name="Disk.Progress" xml:space="preserve"><value>{0:N0} файлов · {1:N0} папок · {2} · {3:0} с</value></data>
+  <data name="Disk.RecycleButton" xml:space="preserve"><value>В корзину</value></data>
+  <data name="Disk.RecycleConfirm" xml:space="preserve"><value>Переместить в корзину {0}?
+
+Место на диске освободится только после очистки корзины.</value></data>
+  <data name="Disk.RecycleTitle" xml:space="preserve"><value>Удаление в корзину</value></data>
+  <data name="Disk.Recycled" xml:space="preserve"><value>В корзину перемещено: {0}.</value></data>
+  <data name="Disk.RemovableDrive" xml:space="preserve"><value>Съёмный диск</value></data>
+  <data name="Disk.ScanFailed" xml:space="preserve"><value>Не удалось просканировать {0}: {1}</value></data>
+  <data name="Disk.Summary" xml:space="preserve"><value>{0:N0} файлов · {1:N0} папок · {2} (на диске {3}) · {4:0.0} с</value></data>
+  <data name="Disk.SummaryDenied" xml:space="preserve"><value> · недоступно папок: {0:N0}</value></data>
+  <data name="Disk.SummaryUpdated" xml:space="preserve"><value>{0:N0} файлов · {1:N0} папок · {2} (на диске {3}) · данные обновлены после изменений</value></data>
+  <data name="Disk.SystemDrive" xml:space="preserve"><value>{0} · системный</value></data>
+  <data name="Disk.Usage" xml:space="preserve"><value>{0} свободно из {1}</value></data>
+  <data name="Disk.VerbDelete" xml:space="preserve"><value>удалить</value></data>
+  <data name="Disk.VerbMove" xml:space="preserve"><value>переместить</value></data>
+  <data name="DiskPage.AdminTip" xml:space="preserve"><value>Перезапустить с правами администратора, чтобы видеть все папки</value></data>
+  <data name="DiskPage.Col.Files" xml:space="preserve"><value>Файлов</value></data>
+  <data name="DiskPage.Col.Modified" xml:space="preserve"><value>Изменён</value></data>
+  <data name="DiskPage.Col.Name" xml:space="preserve"><value>Имя</value></data>
+  <data name="DiskPage.Col.OnDisk" xml:space="preserve"><value>На диске</value></data>
+  <data name="DiskPage.Col.Share" xml:space="preserve"><value>Доля</value></data>
+  <data name="DiskPage.Col.Size" xml:space="preserve"><value>Размер</value></data>
+  <data name="DiskPage.Col.Type" xml:space="preserve"><value>Тип</value></data>
+  <data name="DiskPage.DeleteForever" xml:space="preserve"><value>Удалить навсегда…</value></data>
+  <data name="DiskPage.Empty" xml:space="preserve"><value>Выберите диск или папку, чтобы увидеть, что занимает место</value></data>
+  <data name="DiskPage.FilesFormat" xml:space="preserve"><value>{0:N0} файлов</value></data>
+  <data name="DiskPage.FoldersFormat" xml:space="preserve"><value>{0:N0} папок</value></data>
+  <data name="DiskPage.Move" xml:space="preserve"><value>Переместить…</value></data>
+  <data name="DiskPage.NotAdminMessage" xml:space="preserve"><value>Часть системных папок (System Volume Information, профили других пользователей, WindowsApps) будет недоступна.</value></data>
+  <data name="DiskPage.NotAdminTitle" xml:space="preserve"><value>Запущено без прав администратора</value></data>
+  <data name="DiskPage.OpenInExplorer" xml:space="preserve"><value>Открыть в Проводнике</value></data>
+  <data name="DiskPage.Recycle" xml:space="preserve"><value>Удалить в корзину</value></data>
+  <data name="DiskPage.RefreshDrives" xml:space="preserve"><value>Обновить диски</value></data>
+  <data name="DiskPage.ScanDrive" xml:space="preserve"><value>Сканировать диск</value></data>
+  <data name="DiskPage.ScanFolder" xml:space="preserve"><value>Анализ папки…</value></data>
+  <data name="DiskPage.ScanIncomplete" xml:space="preserve"><value>Сканирование не завершено</value></data>
+  <data name="DiskPage.Scanning" xml:space="preserve"><value>Сканирование</value></data>
+  <data name="DiskPage.Up" xml:space="preserve"><value>На уровень вверх (Backspace)</value></data>
+  <data name="Nav.Cleanup" xml:space="preserve"><value>Очистка</value></data>
+  <data name="Nav.Disk" xml:space="preserve"><value>Место на дисках</value></data>
+  <data name="Nav.Registry" xml:space="preserve"><value>Реестр</value></data>
+  <data name="Nav.Settings" xml:space="preserve"><value>Настройки</value></data>
+  <data name="Nav.Startup" xml:space="preserve"><value>Автозагрузка</value></data>
+  <data name="Nav.Tweaks" xml:space="preserve"><value>Твики</value></data>
+  <data name="Registry.AppPaths.Description" xml:space="preserve"><value>Регистрация для команды «Выполнить» указывает на удалённый .exe.</value></data>
+  <data name="Registry.AppPaths.Title" xml:space="preserve"><value>Пути к несуществующим программам (App Paths)</value></data>
+  <data name="Registry.Backup" xml:space="preserve"><value> Резервная копия: {0}</value></data>
+  <data name="Registry.Checking" xml:space="preserve"><value>Проверка реестра…</value></data>
+  <data name="Registry.ConfirmButton" xml:space="preserve"><value>Исправить</value></data>
+  <data name="Registry.ConfirmRestorePoint" xml:space="preserve"><value>
+Также будет создана точка восстановления системы.</value></data>
+  <data name="Registry.ConfirmText" xml:space="preserve"><value>Будет удалено записей: {0}
+
+{1}
+
+Перед удалением всё сохраняется в .reg-файл в {2} — двойной щелчок по нему вернёт записи.</value></data>
+  <data name="Registry.ConfirmTitle" xml:space="preserve"><value>Исправление реестра</value></data>
+  <data name="Registry.CreatingRestorePoint" xml:space="preserve"><value>Создание точки восстановления…</value></data>
+  <data name="Registry.FileAssociations.Description" xml:space="preserve"><value>Пункты меню «Открыть с помощью», ведущие к удалённым программам.</value></data>
+  <data name="Registry.FileAssociations.Title" xml:space="preserve"><value>«Открыть с помощью» для удалённых программ</value></data>
+  <data name="Registry.FirewallError" xml:space="preserve"><value>Правила брандмауэра: {0}</value></data>
+  <data name="Registry.FirewallRules.Description" xml:space="preserve"><value>Разрешения/запреты брандмауэра для программ, которых больше нет.</value></data>
+  <data name="Registry.FirewallRules.Title" xml:space="preserve"><value>Правила брандмауэра для удалённых программ</value></data>
+  <data name="Registry.FixFailed" xml:space="preserve"><value> Не удалось: {0} ({1}).</value></data>
+  <data name="Registry.Fixed" xml:space="preserve"><value>Исправлено: {0}.</value></data>
+  <data name="Registry.InstallerFolders.Description" xml:space="preserve"><value>Список папок Windows Installer содержит удалённые папки.</value></data>
+  <data name="Registry.InstallerFolders.Title" xml:space="preserve"><value>Папки установщика, которых больше нет</value></data>
+  <data name="Registry.Missing" xml:space="preserve"><value>Нет: {0}</value></data>
+  <data name="Registry.MuiCache.Description" xml:space="preserve"><value>Безвредный кэш имён; удаление просто наводит порядок.</value></data>
+  <data name="Registry.MuiCache.Title" xml:space="preserve"><value>Кэш названий программ (MUICache)</value></data>
+  <data name="Registry.NoProblems" xml:space="preserve"><value>Проблем не найдено</value></data>
+  <data name="Registry.NothingChanged" xml:space="preserve"><value>Ничего не изменено: {0}</value></data>
+  <data name="Registry.Removing" xml:space="preserve"><value>Удаление записей…</value></data>
+  <data name="Registry.RestorePointFailed" xml:space="preserve"><value>Windows ответила: {0}
+
+(Защита системы может быть выключена, или точка уже создавалась за последние 24 часа.)
+
+Продолжить только с .reg-копией?</value></data>
+  <data name="Registry.RestorePointFailedTitle" xml:space="preserve"><value>Точка восстановления не создана</value></data>
+  <data name="Registry.RestorePointName" xml:space="preserve"><value>WinTracer: очистка реестра</value></data>
+  <data name="Registry.Section.Associations" xml:space="preserve"><value>Ассоциации файлов</value></data>
+  <data name="Registry.Section.Firewall" xml:space="preserve"><value>Правила брандмауэра</value></data>
+  <data name="Registry.Section.InstallerFolders" xml:space="preserve"><value>Папки установщика</value></data>
+  <data name="Registry.Section.SharedDlls" xml:space="preserve"><value>Общие DLL</value></data>
+  <data name="Registry.Section.Uninstall" xml:space="preserve"><value>Удаление программ</value></data>
+  <data name="Registry.SectionsFailed" xml:space="preserve"><value>Часть разделов прочитать не удалось: {0}</value></data>
+  <data name="Registry.SharedDlls.Description" xml:space="preserve"><value>Учёт совместно используемых библиотек, файлы которых уже удалены.</value></data>
+  <data name="Registry.SharedDlls.Title" xml:space="preserve"><value>Счётчики общих DLL без файлов</value></data>
+  <data name="Registry.Summary" xml:space="preserve"><value>Найдено: {0} · выбрано: {1}</value></data>
+  <data name="Registry.Uninstall.Description" xml:space="preserve"><value>Программа удалена, но висит в «Установленных приложениях»: нет ни деинсталлятора, ни папки.</value></data>
+  <data name="Registry.Uninstall.Title" xml:space="preserve"><value>Записи об удалённых программах</value></data>
+  <data name="RegistryPage.AdminMessage" xml:space="preserve"><value>Записи в HKEY_LOCAL_MACHINE (удаление программ, брандмауэр, общие DLL) доступны после перезапуска с правами администратора.</value></data>
+  <data name="RegistryPage.AdminTitle" xml:space="preserve"><value>Часть записей можно исправить только от администратора</value></data>
+  <data name="RegistryPage.FixSelected" xml:space="preserve"><value>Исправить выбранное</value></data>
+  <data name="RegistryPage.Intro" xml:space="preserve"><value>Только записи, которые ссылаются на удалённые файлы и папки.</value></data>
+  <data name="RegistryPage.Rescan" xml:space="preserve"><value>Проверить снова</value></data>
+  <data name="RegistryPage.RestorePoint" xml:space="preserve"><value>Точка восстановления</value></data>
+  <data name="RegistryPage.RestorePointTip" xml:space="preserve"><value>Создать точку восстановления Windows перед изменениями (нужны права администратора)</value></data>
+  <data name="Safety.DriveRoot" xml:space="preserve"><value>корень диска</value></data>
+  <data name="Safety.ProgramFolder" xml:space="preserve"><value>Это папка установленной программы. Надёжнее удалить её через «Установленные приложения», иначе останутся записи в реестре, службы и ярлыки.</value></data>
+  <data name="Safety.SystemFolder" xml:space="preserve"><value>системная папка</value></data>
+  <data name="Safety.SystemObject" xml:space="preserve"><value>служебный объект Windows</value></data>
+  <data name="Safety.WindowsFolder" xml:space="preserve"><value>системная папка Windows — используйте раздел «Очистка»</value></data>
+  <data name="Settings.Language.System" xml:space="preserve"><value>Как в системе</value></data>
+  <data name="Settings.Theme.Dark" xml:space="preserve"><value>Тёмная</value></data>
+  <data name="Settings.Theme.Light" xml:space="preserve"><value>Светлая</value></data>
+  <data name="Settings.Theme.System" xml:space="preserve"><value>Как в системе</value></data>
+  <data name="SettingsPage.About" xml:space="preserve"><value>О программе</value></data>
+  <data name="SettingsPage.Admin" xml:space="preserve"><value>Права администратора</value></data>
+  <data name="SettingsPage.AdminHint" xml:space="preserve"><value>Нужны для системных папок, HKLM, служб и очистки Windows</value></data>
+  <data name="SettingsPage.AlreadyAdmin" xml:space="preserve"><value>Уже запущено от администратора</value></data>
+  <data name="SettingsPage.Language" xml:space="preserve"><value>Язык</value></data>
+  <data name="SettingsPage.LanguageHint" xml:space="preserve"><value>Применяется после перезапуска</value></data>
+  <data name="SettingsPage.RestartAdmin" xml:space="preserve"><value>Перезапустить от администратора</value></data>
+  <data name="SettingsPage.RestartNow" xml:space="preserve"><value>Перезапустить</value></data>
+  <data name="SettingsPage.Theme" xml:space="preserve"><value>Тема оформления</value></data>
+  <data name="SettingsPage.ThemeHint" xml:space="preserve"><value>Светлая, тёмная или как в Windows</value></data>
+  <data name="Startup.DeleteBackup" xml:space="preserve"><value>
+
+Резервная копия будет сохранена в {0}.</value></data>
+  <data name="Startup.DeleteConfirm" xml:space="preserve"><value>Удалить «{0}» из автозагрузки?
+
+{1}
+
+</value></data>
+  <data name="Startup.DeleteFailed" xml:space="preserve"><value>Не удалось удалить «{0}»: {1}</value></data>
+  <data name="Startup.DeleteHint" xml:space="preserve"><value>Обычно достаточно отключить запись переключателем. Удаление нужно, если программа уже удалена.</value></data>
+  <data name="Startup.DeleteMissing" xml:space="preserve"><value>Файл программы не найден — запись ни на что не указывает.</value></data>
+  <data name="Startup.DeleteTitle" xml:space="preserve"><value>Удаление записи автозагрузки</value></data>
+  <data name="Startup.Deleted" xml:space="preserve"><value>Запись «{0}» удалена. Резервная копия: {1}</value></data>
+  <data name="Startup.Disabled" xml:space="preserve"><value>«{0}» больше не будет запускаться вместе с Windows. Изменение вступит в силу при следующем входе.</value></data>
+  <data name="Startup.Enabled" xml:space="preserve"><value>«{0}» снова будет запускаться вместе с Windows.</value></data>
+  <data name="Startup.Error.RunKeyMissing" xml:space="preserve"><value>Ключ автозапуска не найден.</value></data>
+  <data name="Startup.Error.ServiceMissing" xml:space="preserve"><value>Служба не найдена.</value></data>
+  <data name="Startup.Filter.All" xml:space="preserve"><value>Все</value></data>
+  <data name="Startup.Filter.Disabled" xml:space="preserve"><value>Отключённые</value></data>
+  <data name="Startup.Filter.Enabled" xml:space="preserve"><value>Включённые</value></data>
+  <data name="Startup.Filter.Problems" xml:space="preserve"><value>Файл не найден</value></data>
+  <data name="Startup.Group.Other" xml:space="preserve"><value>Другое</value></data>
+  <data name="Startup.Group.Programs" xml:space="preserve"><value>Программы</value></data>
+  <data name="Startup.Group.Services" xml:space="preserve"><value>Службы сторонних программ</value></data>
+  <data name="Startup.Group.Tasks" xml:space="preserve"><value>Планировщик заданий</value></data>
+  <data name="Startup.NoPublisher" xml:space="preserve"><value>Издатель не указан</value></data>
+  <data name="Startup.Section.Folders" xml:space="preserve"><value>Папки автозагрузки</value></data>
+  <data name="Startup.Section.Registry" xml:space="preserve"><value>Реестр</value></data>
+  <data name="Startup.Section.Services" xml:space="preserve"><value>Службы</value></data>
+  <data name="Startup.Section.Tasks" xml:space="preserve"><value>Планировщик заданий</value></data>
+  <data name="Startup.Source.AtBoot" xml:space="preserve"><value>при загрузке</value></data>
+  <data name="Startup.Source.AtLogon" xml:space="preserve"><value>при входе</value></data>
+  <data name="Startup.Source.FolderAll" xml:space="preserve"><value>Папка «Автозагрузка» · все пользователи</value></data>
+  <data name="Startup.Source.FolderUser" xml:space="preserve"><value>Папка «Автозагрузка» · текущий пользователь</value></data>
+  <data name="Startup.Source.RunMachine" xml:space="preserve"><value>Реестр · все пользователи</value></data>
+  <data name="Startup.Source.RunMachine32" xml:space="preserve"><value>Реестр · все пользователи (32-бит)</value></data>
+  <data name="Startup.Source.RunUser" xml:space="preserve"><value>Реестр · текущий пользователь</value></data>
+  <data name="Startup.Source.ServiceAuto" xml:space="preserve"><value>Служба · автоматически</value></data>
+  <data name="Startup.Source.ServiceDelayed" xml:space="preserve"><value>Служба · отложенный запуск</value></data>
+  <data name="Startup.Source.Task" xml:space="preserve"><value>Планировщик · {0}</value></data>
+  <data name="Startup.SourcesFailed" xml:space="preserve"><value>Часть источников прочитать не удалось: {0}</value></data>
+  <data name="Startup.Summary" xml:space="preserve"><value>Включено {0} из {1}</value></data>
+  <data name="Startup.SummaryBroken" xml:space="preserve"><value> · битых записей: {0}</value></data>
+  <data name="Startup.ToggleFailed" xml:space="preserve"><value>Не удалось {0} «{1}»: {2}</value></data>
+  <data name="Startup.VerbDisable" xml:space="preserve"><value>отключить</value></data>
+  <data name="Startup.VerbEnable" xml:space="preserve"><value>включить</value></data>
+  <data name="StartupPage.AdminMessage" xml:space="preserve"><value>Записи «для всех пользователей» и службы недоступны для изменения без прав администратора.</value></data>
+  <data name="StartupPage.AdminTip" xml:space="preserve"><value>Нужно для записей «все пользователи» и служб</value></data>
+  <data name="StartupPage.AdminTitle" xml:space="preserve"><value>Часть записей можно изменить только от администратора</value></data>
+  <data name="StartupPage.BackupsTip" xml:space="preserve"><value>Папка с .reg-файлами и ярлыками удалённых записей</value></data>
+  <data name="StartupPage.DeleteTip" xml:space="preserve"><value>Удалить запись (с резервной копией)</value></data>
+  <data name="StartupPage.FileMissing" xml:space="preserve"><value>Файл не найден — запись можно удалить</value></data>
+  <data name="StartupPage.Footer" xml:space="preserve"><value> · Отключение не удаляет запись: её можно вернуть в любой момент.</value></data>
+  <data name="StartupPage.Loading" xml:space="preserve"><value>Чтение реестра, планировщика и служб…</value></data>
+  <data name="StartupPage.Search" xml:space="preserve"><value>Поиск по названию, издателю или команде</value></data>
+  <data name="StartupPage.ShowFile" xml:space="preserve"><value>Показать файл в Проводнике</value></data>
+  <data name="Tweak.perf.dynamic-tick.Description" xml:space="preserve"><value>bcdedit /set disabledynamictick yes — системный таймер тикает постоянно. Иногда уменьшает микрозадержки.</value></data>
+  <data name="Tweak.perf.dynamic-tick.Title" xml:space="preserve"><value>Отключить динамический таймер (dynamic tick)</value></data>
+  <data name="Tweak.perf.dynamic-tick.Warning" xml:space="preserve"><value>Эффект спорный и зависит от железа; повышает энергопотребление в простое.</value></data>
+  <data name="Tweak.perf.game-bar.Description" xml:space="preserve"><value>Отключает открытие Xbox Game Bar кнопкой Xbox и стартовые подсказки.</value></data>
+  <data name="Tweak.perf.game-bar.Title" xml:space="preserve"><value>Game Bar не открывается кнопкой геймпада</value></data>
+  <data name="Tweak.perf.game-dvr.Description" xml:space="preserve"><value>Xbox Game Bar перестаёт постоянно записывать последние минуты игры — меньше нагрузка на GPU и диск.</value></data>
+  <data name="Tweak.perf.game-dvr.Title" xml:space="preserve"><value>Отключить фоновую запись игр (Game DVR)</value></data>
+  <data name="Tweak.perf.game-mode.Description" xml:space="preserve"><value>Windows отдаёт приоритет игре и не ставит обновления драйверов во время игры.</value></data>
+  <data name="Tweak.perf.game-mode.Title" xml:space="preserve"><value>Игровой режим</value></data>
+  <data name="Tweak.perf.hags.Description" xml:space="preserve"><value>Видеокарта сама управляет своей памятью: меньше задержка, нужен для DLSS Frame Generation.</value></data>
+  <data name="Tweak.perf.hags.Title" xml:space="preserve"><value>Аппаратное планирование GPU (HAGS)</value></data>
+  <data name="Tweak.perf.hags.Warning" xml:space="preserve"><value>Нужна видеокарта и драйвер с поддержкой WDDM 2.7+. На старых драйверах возможны артефакты.</value></data>
+  <data name="Tweak.perf.mouse-accel.Description" xml:space="preserve"><value>Курсор двигается строго пропорционально движению мыши («Повышенная точность указателя» выкл.). Полезно в играх.</value></data>
+  <data name="Tweak.perf.mouse-accel.Title" xml:space="preserve"><value>Отключить ускорение мыши</value></data>
+  <data name="Tweak.perf.network-throttling.Description" xml:space="preserve"><value>Снимает лимит сетевых пакетов для мультимедиа (NetworkThrottlingIndex) и резерв CPU для фона (SystemResponsiveness 10%).</value></data>
+  <data name="Tweak.perf.network-throttling.Title" xml:space="preserve"><value>Отключить ограничение сети при воспроизведении</value></data>
+  <data name="Tweak.perf.power-throttling.Description" xml:space="preserve"><value>Windows не ограничивает частоту процессора для фоновых программ.</value></data>
+  <data name="Tweak.perf.power-throttling.Title" xml:space="preserve"><value>Отключить Power Throttling</value></data>
+  <data name="Tweak.perf.power-throttling.Warning" xml:space="preserve"><value>На ноутбуке сократит время работы от батареи.</value></data>
+  <data name="Tweak.perf.startup-delay.Description" xml:space="preserve"><value>Программы из автозагрузки стартуют сразу после входа, без искусственной паузы в несколько секунд.</value></data>
+  <data name="Tweak.perf.startup-delay.Title" xml:space="preserve"><value>Убрать задержку автозапуска</value></data>
+  <data name="Tweak.perf.ultimate.Description" xml:space="preserve"><value>Создаёт и включает скрытую схему Ultimate Performance: процессор не снижает частоту и не «засыпает».</value></data>
+  <data name="Tweak.perf.ultimate.Title" xml:space="preserve"><value>Схема питания «Максимальная производительность»</value></data>
+  <data name="Tweak.perf.ultimate.Warning" xml:space="preserve"><value>Для ноутбуков от батареи не подходит — заметно растёт энергопотребление и нагрев.</value></data>
+  <data name="Tweak.privacy.activity.Description" xml:space="preserve"><value>Запрещает сохранять и отправлять в облако историю открытых приложений и документов.</value></data>
+  <data name="Tweak.privacy.activity.Title" xml:space="preserve"><value>Журнал действий</value></data>
+  <data name="Tweak.privacy.advertising.Description" xml:space="preserve"><value>Отключает рекламный ID, «персонализированные возможности» по диагностическим данным и учёт запускаемых программ.</value></data>
+  <data name="Tweak.privacy.advertising.Title" xml:space="preserve"><value>Рекламный идентификатор и персональные предложения</value></data>
+  <data name="Tweak.privacy.copilot.Description" xml:space="preserve"><value>Политика отключения Windows Copilot, кнопка Copilot на панели задач, запрет Cortana.</value></data>
+  <data name="Tweak.privacy.copilot.Title" xml:space="preserve"><value>Copilot и Cortana</value></data>
+  <data name="Tweak.privacy.inking.Description" xml:space="preserve"><value>Windows перестаёт собирать образцы рукописного ввода, набираемого текста, контактов и онлайн-распознавания речи.</value></data>
+  <data name="Tweak.privacy.inking.Title" xml:space="preserve"><value>Сбор данных рукописного ввода, набора текста и речи</value></data>
+  <data name="Tweak.privacy.recall.Description" xml:space="preserve"><value>Запрещает Windows делать снимки экрана для Recall и анализировать содержимое экрана (Copilot+ PC).</value></data>
+  <data name="Tweak.privacy.recall.Title" xml:space="preserve"><value>Recall и Click to Do</value></data>
+  <data name="Tweak.privacy.spotlight.Description" xml:space="preserve"><value>Отключает «Windows: интересное» — меняющиеся фоны, подсказки и рекламу на экране блокировки и рабочем столе.</value></data>
+  <data name="Tweak.privacy.spotlight.Title" xml:space="preserve"><value>Windows Spotlight</value></data>
+  <data name="Tweak.privacy.telemetry.Description" xml:space="preserve"><value>Политика сбора диагностических данных: минимальный уровень, без имени устройства и опросов обратной связи.</value></data>
+  <data name="Tweak.privacy.telemetry.Title" xml:space="preserve"><value>Минимальная телеметрия</value></data>
+  <data name="Tweak.privacy.telemetry.Warning" xml:space="preserve"><value>В редакциях Home и Pro Windows опускает уровень только до «Обязательных данных» — полностью отключить нельзя.</value></data>
+  <data name="Tweak.privacy.web-search.Description" xml:space="preserve"><value>Поиск Windows ищет только на компьютере: без подсказок Bing и «главного в поиске».</value></data>
+  <data name="Tweak.privacy.web-search.Title" xml:space="preserve"><value>Поиск в интернете из меню «Пуск»</value></data>
+  <data name="Tweak.ui.ads.Description" xml:space="preserve"><value>Убирает рекомендации в «Пуске», уведомления учётной записи, предложения в Параметрах, рекламу OneDrive в Проводнике и тихую установку «предлагаемых» приложений.</value></data>
+  <data name="Tweak.ui.ads.Title" xml:space="preserve"><value>Реклама и рекомендации в Windows</value></data>
+  <data name="Tweak.ui.consumer-features.Description" xml:space="preserve"><value>Политика Microsoft Consumer Experiences: Windows не будет сама ставить игры и приложения из Store.</value></data>
+  <data name="Tweak.ui.consumer-features.Title" xml:space="preserve"><value>Автоустановка «рекомендуемых» приложений</value></data>
+  <data name="Tweak.ui.end-task.Description" xml:space="preserve"><value>Пункт в контекстном меню значка на панели задач, чтобы снять зависшую программу без Диспетчера задач.</value></data>
+  <data name="Tweak.ui.end-task.Title" xml:space="preserve"><value>«Завершить задачу» в панели задач</value></data>
+  <data name="Tweak.ui.extensions.Description" xml:space="preserve"><value>Видно, что «счёт.pdf.exe» — программа, а не документ.</value></data>
+  <data name="Tweak.ui.extensions.Title" xml:space="preserve"><value>Показывать расширения файлов</value></data>
+  <data name="Tweak.ui.hidden.Description" xml:space="preserve"><value>Проводник показывает скрытые файлы и папки (например, AppData).</value></data>
+  <data name="Tweak.ui.hidden.Title" xml:space="preserve"><value>Показывать скрытые файлы</value></data>
+  <data name="Tweak.ui.this-pc.Description" xml:space="preserve"><value>Вместо «Главной» с недавними файлами Проводник показывает диски.</value></data>
+  <data name="Tweak.ui.this-pc.Title" xml:space="preserve"><value>Проводник открывается в «Этот компьютер»</value></data>
+  <data name="Tweak.ui.widgets.Description" xml:space="preserve"><value>Отключает виджеты (новости и погода) политикой и убирает значок чата Teams.</value></data>
+  <data name="Tweak.ui.widgets.Title" xml:space="preserve"><value>Виджеты и чат на панели задач</value></data>
+  <data name="Tweak.upd.delivery.Description" xml:space="preserve"><value>Оптимизация доставки качает обновления только с серверов Microsoft и не отдаёт их другим ПК (P2P).</value></data>
+  <data name="Tweak.upd.delivery.Title" xml:space="preserve"><value>Не раздавать обновления другим компьютерам</value></data>
+  <data name="TweakGroup.Interface" xml:space="preserve"><value>Интерфейс и реклама</value></data>
+  <data name="TweakGroup.Performance" xml:space="preserve"><value>Производительность и игры</value></data>
+  <data name="TweakGroup.Privacy" xml:space="preserve"><value>Конфиденциальность</value></data>
+  <data name="TweakGroup.Updates" xml:space="preserve"><value>Обновления</value></data>
+  <data name="Tweaks.Applied" xml:space="preserve"><value>«{0}» применён.</value></data>
+  <data name="Tweaks.AppsFailed" xml:space="preserve"><value>Не удалось получить список приложений: {0}</value></data>
+  <data name="Tweaks.Effect.Explorer" xml:space="preserve"><value>Нужен перезапуск Проводника</value></data>
+  <data name="Tweaks.Effect.Reboot" xml:space="preserve"><value>Нужна перезагрузка</value></data>
+  <data name="Tweaks.Effect.SignOut" xml:space="preserve"><value>Нужен повторный вход</value></data>
+  <data name="Tweaks.Error" xml:space="preserve"><value>«{0}»: {1}</value></data>
+  <data name="Tweaks.RemoveConfirm" xml:space="preserve"><value>Удалить «{0}» ({1}) для текущего пользователя?</value></data>
+  <data name="Tweaks.RemoveFailed" xml:space="preserve"><value>Не удалось удалить «{0}»: {1}</value></data>
+  <data name="Tweaks.RemoveStore" xml:space="preserve"><value>
+
+Вернуть приложение можно из Microsoft Store.</value></data>
+  <data name="Tweaks.RemoveTitle" xml:space="preserve"><value>Удаление встроенного приложения</value></data>
+  <data name="Tweaks.Removed" xml:space="preserve"><value>«{0}» удалено.</value></data>
+  <data name="Tweaks.Reverted" xml:space="preserve"><value>«{0}» отменён — восстановлены прежние значения.</value></data>
+  <data name="Tweaks.State.Partial" xml:space="preserve"><value>Применён частично</value></data>
+  <data name="Tweaks.State.Unknown" xml:space="preserve"><value>Состояние неизвестно (нужны права администратора для проверки)</value></data>
+  <data name="TweaksPage.Apps" xml:space="preserve"><value>Встроенные приложения</value></data>
+  <data name="TweaksPage.AppsHint" xml:space="preserve"><value>Удаляются для текущего пользователя, вернуть можно через Microsoft Store.</value></data>
+  <data name="TweaksPage.ExplorerNeeded" xml:space="preserve"><value>Нужно перезапустить Проводник, чтобы изменения применились.</value></data>
+  <data name="TweaksPage.Intro" xml:space="preserve"><value>При выключении возвращаются старые значения.</value></data>
+  <data name="TweaksPage.NoApps" xml:space="preserve"><value>Ни одного приложения из списка не установлено.</value></data>
+  <data name="TweaksPage.RebootNeeded" xml:space="preserve"><value>Нужна перезагрузка.</value></data>
+  <data name="TweaksPage.RestartExplorer" xml:space="preserve"><value>Перезапустить Проводник</value></data>
+  <data name="Unit.B" xml:space="preserve"><value>Б</value></data>
+  <data name="Unit.GB" xml:space="preserve"><value>ГБ</value></data>
+  <data name="Unit.KB" xml:space="preserve"><value>КБ</value></data>
+  <data name="Unit.MB" xml:space="preserve"><value>МБ</value></data>
+  <data name="Unit.PB" xml:space="preserve"><value>ПБ</value></data>
+  <data name="Unit.TB" xml:space="preserve"><value>ТБ</value></data>
+</root>

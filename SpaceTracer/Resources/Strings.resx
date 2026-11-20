@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="App.AdminTitle" xml:space="preserve"><value>WinTracer — administrator</value></data>
+  <data name="App.ErrorTitle" xml:space="preserve"><value>WinTracer — error</value></data>
+  <data name="App.MSTeams" xml:space="preserve"><value>Teams</value></data>
+  <data name="App.Microsoft.549981C3F5F10" xml:space="preserve"><value>Cortana</value></data>
+  <data name="App.Microsoft.BingNews" xml:space="preserve"><value>News</value></data>
+  <data name="App.Microsoft.BingWeather" xml:space="preserve"><value>Weather</value></data>
+  <data name="App.Microsoft.Clipchamp" xml:space="preserve"><value>Clipchamp</value></data>
+  <data name="App.Microsoft.Copilot" xml:space="preserve"><value>Copilot</value></data>
+  <data name="App.Microsoft.DevHome" xml:space="preserve"><value>Dev Home</value></data>
+  <data name="App.Microsoft.GetHelp" xml:space="preserve"><value>Get Help</value></data>
+  <data name="App.Microsoft.Getstarted" xml:space="preserve"><value>Tips</value></data>
+  <data name="App.Microsoft.MicrosoftSolitaireCollection" xml:space="preserve"><value>Microsoft Solitaire Collection</value></data>
+  <data name="App.Microsoft.OutlookForWindows" xml:space="preserve"><value>Outlook (new)</value></data>
+  <data name="App.Microsoft.Paint" xml:space="preserve"><value>Paint</value></data>
+  <data name="App.Microsoft.People" xml:space="preserve"><value>People</value></data>
+  <data name="App.Microsoft.Todos" xml:space="preserve"><value>Microsoft To Do</value></data>
+  <data name="App.Microsoft.WindowsAlarms" xml:space="preserve"><value>Clock</value></data>
+  <data name="App.Microsoft.WindowsCamera" xml:space="preserve"><value>Camera</value></data>
+  <data name="App.Microsoft.WindowsFeedbackHub" xml:space="preserve"><value>Feedback Hub</value></data>
+  <data name="App.Microsoft.WindowsMaps" xml:space="preserve"><value>Maps</value></data>
+  <data name="App.Microsoft.WindowsSoundRecorder" xml:space="preserve"><value>Sound Recorder</value></data>
+  <data name="App.Microsoft.Xbox.TCUI" xml:space="preserve"><value>Xbox TCUI</value></data>
+  <data name="App.Microsoft.Xbox.TCUI.Warning" xml:space="preserve"><value>Needed for Xbox friends and invites in games.</value></data>
+  <data name="App.Microsoft.XboxGameOverlay" xml:space="preserve"><value>Xbox Game Overlay</value></data>
+  <data name="App.Microsoft.XboxGamingOverlay" xml:space="preserve"><value>Xbox Game Bar</value></data>
+  <data name="App.Microsoft.XboxGamingOverlay.Warning" xml:space="preserve"><value>You lose the Win+G overlay, screen recording and the FPS counter.</value></data>
+  <data name="App.Microsoft.XboxIdentityProvider" xml:space="preserve"><value>Xbox Identity Provider</value></data>
+  <data name="App.Microsoft.XboxIdentityProvider.Warning" xml:space="preserve"><value>Without it Xbox sign-in in games won't work (Minecraft, Game Pass).</value></data>
+  <data name="App.Microsoft.XboxSpeechToTextOverlay" xml:space="preserve"><value>Xbox Speech to Text</value></data>
+  <data name="App.Microsoft.YourPhone" xml:space="preserve"><value>Phone Link</value></data>
+  <data name="App.Microsoft.ZuneMusic" xml:space="preserve"><value>Media Player</value></data>
+  <data name="App.Microsoft.ZuneMusic.Warning" xml:space="preserve"><value>The default music and video player in Windows 11.</value></data>
+  <data name="App.Microsoft.ZuneVideo" xml:space="preserve"><value>Movies &amp; TV</value></data>
+  <data name="App.MicrosoftTeams" xml:space="preserve"><value>Teams (personal)</value></data>
+  <data name="Cleanup.AnalyzeCancelled" xml:space="preserve"><value>Analysis cancelled</value></data>
+  <data name="Cleanup.Analyzing" xml:space="preserve"><value>Analyzing…</value></data>
+  <data name="Cleanup.AndMore" xml:space="preserve"><value>
+… and {0} more</value></data>
+  <data name="Cleanup.Cleaning" xml:space="preserve"><value>Cleaning…</value></data>
+  <data name="Cleanup.CleaningItem" xml:space="preserve"><value>Cleaning: {0}</value></data>
+  <data name="Cleanup.ConfirmButton" xml:space="preserve"><value>Clean</value></data>
+  <data name="Cleanup.ConfirmText" xml:space="preserve"><value>About {0} will be cleaned:
+
+{1}</value></data>
+  <data name="Cleanup.ConfirmTitle" xml:space="preserve"><value>Cleanup</value></data>
+  <data name="Cleanup.DismExit" xml:space="preserve"><value>DISM exited with code {0}</value></data>
+  <data name="Cleanup.Empty" xml:space="preserve"><value>Empty</value></data>
+  <data name="Cleanup.ErrorPrefix" xml:space="preserve"><value>Error: {0}</value></data>
+  <data name="Cleanup.Freed" xml:space="preserve"><value>Freed {0}</value></data>
+  <data name="Cleanup.Irreversible" xml:space="preserve"><value>
+
+This cannot be undone (files do not go to the Recycle Bin).</value></data>
+  <data name="Cleanup.NothingSelected" xml:space="preserve"><value>Nothing selected</value></data>
+  <data name="Cleanup.RecycleSizeUnknown" xml:space="preserve"><value>Couldn't get the Recycle Bin size</value></data>
+  <data name="Cleanup.ResultErrors" xml:space="preserve"><value> Errors: {0}.</value></data>
+  <data name="Cleanup.ResultFreed" xml:space="preserve"><value>Freed {0}.</value></data>
+  <data name="Cleanup.ResultSkipped" xml:space="preserve"><value> Skipped files: {0:N0} — they are used by running programs; close them and try again.</value></data>
+  <data name="Cleanup.Running" xml:space="preserve"><value>Running: {0} — files in use will be skipped</value></data>
+  <data name="Cleanup.Searching" xml:space="preserve"><value>Looking for data…</value></data>
+  <data name="Cleanup.Selected" xml:space="preserve"><value>Selected: {0} · {1}</value></data>
+  <data name="Cleanup.SizeAfterClean" xml:space="preserve"><value>Size will be known after cleaning</value></data>
+  <data name="Cleanup.SkippedShort" xml:space="preserve"><value> · skipped {0:N0} (in use or no access)</value></data>
+  <data name="Cleanup.Stopped" xml:space="preserve"><value>Cleanup stopped. Freed {0}.</value></data>
+  <data name="Cleanup.UnknownSize" xml:space="preserve"><value> + unknown size</value></data>
+  <data name="Cleanup.ai.antigravity.cache.Description" xml:space="preserve"><value>Electron cache, CachedData, downloaded VSIX files, agent crash reports. Conversations and the knowledge base (brain) are not touched.</value></data>
+  <data name="Cleanup.ai.antigravity.cache.Title" xml:space="preserve"><value>Antigravity — UI cache and logs</value></data>
+  <data name="Cleanup.ai.antigravity.updates.Description" xml:space="preserve"><value>%LOCALAPPDATA%\antigravity-updater: installer and pending update (will be downloaded again).</value></data>
+  <data name="Cleanup.ai.antigravity.updates.Title" xml:space="preserve"><value>Antigravity — downloaded updates</value></data>
+  <data name="Cleanup.ai.claude-code.cache.Description" xml:space="preserve"><value>~/.claude: telemetry, cache, debug, shell-snapshots; claude-cli-nodejs cache. Login, settings, memory, skills and plugins are not touched.</value></data>
+  <data name="Cleanup.ai.claude-code.cache.Title" xml:space="preserve"><value>Claude Code — telemetry, cache and debug logs</value></data>
+  <data name="Cleanup.ai.claude-code.file-history.Description" xml:space="preserve"><value>~/.claude/file-history: file snapshots for /rewind.</value></data>
+  <data name="Cleanup.ai.claude-code.file-history.Title" xml:space="preserve"><value>Claude Code — checkpoints older than 30 days</value></data>
+  <data name="Cleanup.ai.claude-code.file-history.Warning" xml:space="preserve"><value>You won't be able to rewind edits in sessions older than 30 days.</value></data>
+  <data name="Cleanup.ai.claude-code.sessions.Description" xml:space="preserve"><value>~/.claude/projects: conversation logs. memory folders (project memory) are kept.</value></data>
+  <data name="Cleanup.ai.claude-code.sessions.Title" xml:space="preserve"><value>Claude Code — sessions older than 60 days</value></data>
+  <data name="Cleanup.ai.claude-code.sessions.Warning" xml:space="preserve"><value>Old sessions will disappear from /resume.</value></data>
+  <data name="Cleanup.ai.claude-code.versions.Description" xml:space="preserve"><value>~/.local/share/claude/versions: the two latest and the running one stay.</value></data>
+  <data name="Cleanup.ai.claude-code.versions.Title" xml:space="preserve"><value>Claude Code — old versions</value></data>
+  <data name="Cleanup.ai.claude-desktop.cache.Description" xml:space="preserve"><value>Electron cache (Cache, Code Cache, GPU/shaders) and logs older than 7 days. The VM (vm_bundles) and session data are not touched.</value></data>
+  <data name="Cleanup.ai.claude-desktop.cache.Title" xml:space="preserve"><value>Claude Desktop — UI cache and logs</value></data>
+  <data name="Cleanup.ai.claude-desktop.versions.Description" xml:space="preserve"><value>claude-code and claude-code-vm in Claude-Data: the latest and the running one stay.</value></data>
+  <data name="Cleanup.ai.claude-desktop.versions.Title" xml:space="preserve"><value>Claude Desktop — old bundled Claude Code versions</value></data>
+  <data name="Cleanup.ai.codex-desktop.cache.Description" xml:space="preserve"><value>Built-in Chromium cache: pages, shaders, components, crash reports.</value></data>
+  <data name="Cleanup.ai.codex-desktop.cache.Title" xml:space="preserve"><value>Codex Desktop — UI cache</value></data>
+  <data name="Cleanup.ai.codex.cache.Description" xml:space="preserve"><value>~/.codex: cache, tmp, log. auth.json, config.toml, databases and memory are not touched.</value></data>
+  <data name="Cleanup.ai.codex.cache.Title" xml:space="preserve"><value>Codex — cache, temp files and logs</value></data>
+  <data name="Cleanup.ai.codex.sessions.Description" xml:space="preserve"><value>~/.codex/sessions and archived_sessions: rollout-*.jsonl files.</value></data>
+  <data name="Cleanup.ai.codex.sessions.Title" xml:space="preserve"><value>Codex — sessions older than 60 days</value></data>
+  <data name="Cleanup.ai.codex.sessions.Warning" xml:space="preserve"><value>Old sessions can't be resumed anymore.</value></data>
+  <data name="Cleanup.ai.opencode-desktop.cache.Description" xml:space="preserve"><value>Electron cache, compile-cache, logs and downloaded update installers.</value></data>
+  <data name="Cleanup.ai.opencode-desktop.cache.Title" xml:space="preserve"><value>OpenCode Desktop — UI cache and downloaded updates</value></data>
+  <data name="Cleanup.ai.opencode.cache.Description" xml:space="preserve"><value>~/.local/share/opencode/log and tool-output, ~/.cache/opencode. auth.json, the session database and undo snapshots are not touched.</value></data>
+  <data name="Cleanup.ai.opencode.cache.Title" xml:space="preserve"><value>OpenCode — logs, cache and tool output</value></data>
+  <data name="Cleanup.app.discord.Description" xml:space="preserve"><value>Image, script and shader cache.</value></data>
+  <data name="Cleanup.app.discord.Title" xml:space="preserve"><value>Discord — cache</value></data>
+  <data name="Cleanup.app.steam.Description" xml:space="preserve"><value>htmlcache and Steam client logs.</value></data>
+  <data name="Cleanup.app.steam.Title" xml:space="preserve"><value>Steam — browser cache and logs</value></data>
+  <data name="Cleanup.app.vscode.Description" xml:space="preserve"><value>UI cache, CachedData, downloaded VSIX files.</value></data>
+  <data name="Cleanup.app.vscode.Title" xml:space="preserve"><value>Visual Studio Code — cache and logs</value></data>
+  <data name="Cleanup.br.brave.Description" xml:space="preserve"><value>Page, script and shader cache of all profiles.</value></data>
+  <data name="Cleanup.br.brave.Title" xml:space="preserve"><value>Brave — cache</value></data>
+  <data name="Cleanup.br.chrome.Description" xml:space="preserve"><value>Page, script and shader cache of all profiles.</value></data>
+  <data name="Cleanup.br.chrome.Title" xml:space="preserve"><value>Google Chrome — cache</value></data>
+  <data name="Cleanup.br.edge.Description" xml:space="preserve"><value>Page, script and shader cache of all profiles.</value></data>
+  <data name="Cleanup.br.edge.Title" xml:space="preserve"><value>Microsoft Edge — cache</value></data>
+  <data name="Cleanup.br.firefox.Description" xml:space="preserve"><value>cache2, startupCache and thumbnails of all profiles.</value></data>
+  <data name="Cleanup.br.firefox.Title" xml:space="preserve"><value>Mozilla Firefox — cache</value></data>
+  <data name="Cleanup.br.opera.Description" xml:space="preserve"><value>Page, script and shader cache.</value></data>
+  <data name="Cleanup.br.opera.Title" xml:space="preserve"><value>Opera — cache</value></data>
+  <data name="Cleanup.br.yandex.Description" xml:space="preserve"><value>Page, script and shader cache of all profiles.</value></data>
+  <data name="Cleanup.br.yandex.Title" xml:space="preserve"><value>Yandex Browser — cache</value></data>
+  <data name="Cleanup.dev.npm.Description" xml:space="preserve"><value>Downloaded package cache; refilled on the next install.</value></data>
+  <data name="Cleanup.dev.npm.Title" xml:space="preserve"><value>npm / Yarn — cache</value></data>
+  <data name="Cleanup.dev.nuget.Description" xml:space="preserve"><value>Downloaded metadata and packages (v3-cache, plugins-cache). Installed packages are not touched.</value></data>
+  <data name="Cleanup.dev.nuget.Title" xml:space="preserve"><value>NuGet — HTTP cache</value></data>
+  <data name="Cleanup.dev.python.Description" xml:space="preserve"><value>Downloaded Python package cache.</value></data>
+  <data name="Cleanup.dev.python.Title" xml:space="preserve"><value>pip / uv — cache</value></data>
+  <data name="Cleanup.sys.delivery-opt.Description" xml:space="preserve"><value>Update copies kept to share with other PCs on the network.</value></data>
+  <data name="Cleanup.sys.delivery-opt.Title" xml:space="preserve"><value>Delivery Optimization cache</value></data>
+  <data name="Cleanup.sys.logs.Description" xml:space="preserve"><value>CBS, DISM and servicing logs older than 7 days.</value></data>
+  <data name="Cleanup.sys.logs.Title" xml:space="preserve"><value>Windows setup logs</value></data>
+  <data name="Cleanup.sys.recycle-bin.Description" xml:space="preserve"><value>Permanently empties the Recycle Bin on all drives.</value></data>
+  <data name="Cleanup.sys.recycle-bin.Title" xml:space="preserve"><value>Recycle Bin</value></data>
+  <data name="Cleanup.sys.recycle-bin.Warning" xml:space="preserve"><value>Deleted files can't be restored afterwards.</value></data>
+  <data name="Cleanup.sys.shader-cache.Description" xml:space="preserve"><value>D3DSCache, NVIDIA DXCache/GLCache, AMD DxCache.</value></data>
+  <data name="Cleanup.sys.shader-cache.Title" xml:space="preserve"><value>DirectX and GPU driver shader cache</value></data>
+  <data name="Cleanup.sys.shader-cache.Warning" xml:space="preserve"><value>Games rebuild the cache on first launch — expect some short stutters.</value></data>
+  <data name="Cleanup.sys.system-dumps.Description" xml:space="preserve"><value>MEMORY.DMP, Minidump, LiveKernelReports and shared error reports.</value></data>
+  <data name="Cleanup.sys.system-dumps.Title" xml:space="preserve"><value>System memory dumps and WER reports</value></data>
+  <data name="Cleanup.sys.thumbcache.Description" xml:space="preserve"><value>Gets rebuilt automatically. Files used by Explorer are skipped.</value></data>
+  <data name="Cleanup.sys.thumbcache.Title" xml:space="preserve"><value>Explorer thumbnail cache</value></data>
+  <data name="Cleanup.sys.user-dumps.Description" xml:space="preserve"><value>CrashDumps and Windows Error Reporting files of the current user.</value></data>
+  <data name="Cleanup.sys.user-dumps.Title" xml:space="preserve"><value>App crash dumps and reports</value></data>
+  <data name="Cleanup.sys.user-temp.Description" xml:space="preserve"><value>%TEMP%: files older than a day. Files in use are skipped.</value></data>
+  <data name="Cleanup.sys.user-temp.Title" xml:space="preserve"><value>User temp files</value></data>
+  <data name="Cleanup.sys.windows-temp.Description" xml:space="preserve"><value>C:\Windows\Temp: files older than a day.</value></data>
+  <data name="Cleanup.sys.windows-temp.Title" xml:space="preserve"><value>Windows temp files</value></data>
+  <data name="Cleanup.sys.winsxs.Description" xml:space="preserve"><value>Standard DISM /StartComponentCleanup: removes superseded component versions.</value></data>
+  <data name="Cleanup.sys.winsxs.Title" xml:space="preserve"><value>WinSxS component store</value></data>
+  <data name="Cleanup.sys.winsxs.Warning" xml:space="preserve"><value>Takes a few minutes. Installed updates can't be rolled back afterwards.</value></data>
+  <data name="Cleanup.sys.wu-download.Description" xml:space="preserve"><value>Already installed update packages (SoftwareDistribution\Download), older than 3 days.</value></data>
+  <data name="Cleanup.sys.wu-download.Title" xml:space="preserve"><value>Windows Update downloads</value></data>
+  <data name="CleanupGroup.AiTools" xml:space="preserve"><value>AI tools</value></data>
+  <data name="CleanupGroup.Applications" xml:space="preserve"><value>Apps</value></data>
+  <data name="CleanupGroup.Browsers" xml:space="preserve"><value>Browsers</value></data>
+  <data name="CleanupGroup.Development" xml:space="preserve"><value>Dev caches</value></data>
+  <data name="CleanupGroup.System" xml:space="preserve"><value>System</value></data>
+  <data name="CleanupPage.AdminMessage" xml:space="preserve"><value>System folders (C:\Windows\Temp, Windows Update, dumps, WinSxS) can be cleaned after restarting as administrator — the button is in Settings or Disk space.</value></data>
+  <data name="CleanupPage.AdminTitle" xml:space="preserve"><value>Some items need admin rights</value></data>
+  <data name="CleanupPage.CleanSelected" xml:space="preserve"><value>Clean selected</value></data>
+  <data name="CleanupPage.Done" xml:space="preserve"><value>Done</value></data>
+  <data name="CleanupPage.Reanalyze" xml:space="preserve"><value>Analyze again</value></data>
+  <data name="CleanupPage.Recommended" xml:space="preserve"><value>Recommended</value></data>
+  <data name="CleanupPage.SelectNone" xml:space="preserve"><value>Clear all</value></data>
+  <data name="CleanupPage.Stop" xml:space="preserve"><value>Stop</value></data>
+  <data name="Common.AsAdmin" xml:space="preserve"><value>Run as admin</value></data>
+  <data name="Common.Backups" xml:space="preserve"><value>Backups</value></data>
+  <data name="Common.Cancel" xml:space="preserve"><value>Cancel</value></data>
+  <data name="Common.Continue" xml:space="preserve"><value>Continue</value></data>
+  <data name="Common.CopyPath" xml:space="preserve"><value>Copy path</value></data>
+  <data name="Common.Delete" xml:space="preserve"><value>Delete</value></data>
+  <data name="Common.ExitCode" xml:space="preserve"><value>code {0}</value></data>
+  <data name="Common.NeedsAdmin" xml:space="preserve"><value>Needs admin rights</value></data>
+  <data name="Common.NoAccess" xml:space="preserve"><value>access denied — restart as administrator</value></data>
+  <data name="Common.Off" xml:space="preserve"><value>Off</value></data>
+  <data name="Common.On" xml:space="preserve"><value>On</value></data>
+  <data name="Common.Open" xml:space="preserve"><value>Open</value></data>
+  <data name="Common.Refresh" xml:space="preserve"><value>Refresh</value></data>
+  <data name="Common.ShowInExplorer" xml:space="preserve"><value>Show in Explorer</value></data>
+  <data name="Disk.AlreadyThere" xml:space="preserve"><value>Already in this folder.</value></data>
+  <data name="Disk.Blocked" xml:space="preserve"><value>Can't {0} "{1}": {2}.</value></data>
+  <data name="Disk.Cancelled" xml:space="preserve"><value>Scan cancelled.</value></data>
+  <data name="Disk.DeleteButton" xml:space="preserve"><value>Delete permanently</value></data>
+  <data name="Disk.DeleteConfirm" xml:space="preserve"><value>Delete {0} permanently?</value></data>
+  <data name="Disk.DeleteTitle" xml:space="preserve"><value>Permanent delete</value></data>
+  <data name="Disk.Deleted" xml:space="preserve"><value>Deleted: {0}.</value></data>
+  <data name="Disk.Kind.File" xml:space="preserve"><value>File</value></data>
+  <data name="Disk.Kind.Folder" xml:space="preserve"><value>Folder</value></data>
+  <data name="Disk.Kind.Link" xml:space="preserve"><value>Link</value></data>
+  <data name="Disk.LocalDrive" xml:space="preserve"><value>Local disk</value></data>
+  <data name="Disk.ManyItems" xml:space="preserve"><value>{0} items ({1})</value></data>
+  <data name="Disk.MoveAnyway" xml:space="preserve"><value>{0}
+
+Move {1} to {2} anyway?</value></data>
+  <data name="Disk.MoveButton" xml:space="preserve"><value>Move</value></data>
+  <data name="Disk.MoveIntoSelf" xml:space="preserve"><value>Can't move a folder into itself.</value></data>
+  <data name="Disk.MoveTitle" xml:space="preserve"><value>Move</value></data>
+  <data name="Disk.MoveWhere" xml:space="preserve"><value>Move {0} to</value></data>
+  <data name="Disk.Moved" xml:space="preserve"><value>Moved {0} → {1}.</value></data>
+  <data name="Disk.MovedInside" xml:space="preserve"><value> The target is inside the scanned area — rescan to see its new size.</value></data>
+  <data name="Disk.OneItem" xml:space="preserve"><value>"{0}" ({1})</value></data>
+  <data name="Disk.PartialFail" xml:space="preserve"><value>Some items couldn't be processed (in use or no access).</value></data>
+  <data name="Disk.PickFolder" xml:space="preserve"><value>Choose a folder to analyze</value></data>
+  <data name="Disk.Progress" xml:space="preserve"><value>{0:N0} files · {1:N0} folders · {2} · {3:0} s</value></data>
+  <data name="Disk.RecycleButton" xml:space="preserve"><value>Recycle</value></data>
+  <data name="Disk.RecycleConfirm" xml:space="preserve"><value>Move {0} to the Recycle Bin?
+
+Disk space is freed only after you empty the Recycle Bin.</value></data>
+  <data name="Disk.RecycleTitle" xml:space="preserve"><value>Move to Recycle Bin</value></data>
+  <data name="Disk.Recycled" xml:space="preserve"><value>Moved to Recycle Bin: {0}.</value></data>
+  <data name="Disk.RemovableDrive" xml:space="preserve"><value>Removable disk</value></data>
+  <data name="Disk.ScanFailed" xml:space="preserve"><value>Couldn't scan {0}: {1}</value></data>
+  <data name="Disk.Summary" xml:space="preserve"><value>{0:N0} files · {1:N0} folders · {2} ({3} on disk) · {4:0.0} s</value></data>
+  <data name="Disk.SummaryDenied" xml:space="preserve"><value> · inaccessible folders: {0:N0}</value></data>
+  <data name="Disk.SummaryUpdated" xml:space="preserve"><value>{0:N0} files · {1:N0} folders · {2} ({3} on disk) · updated after changes</value></data>
+  <data name="Disk.SystemDrive" xml:space="preserve"><value>{0} · system</value></data>
+  <data name="Disk.Usage" xml:space="preserve"><value>{0} free of {1}</value></data>
+  <data name="Disk.VerbDelete" xml:space="preserve"><value>delete</value></data>
+  <data name="Disk.VerbMove" xml:space="preserve"><value>move</value></data>
+  <data name="DiskPage.AdminTip" xml:space="preserve"><value>Restart as administrator to see every folder</value></data>
+  <data name="DiskPage.Col.Files" xml:space="preserve"><value>Files</value></data>
+  <data name="DiskPage.Col.Modified" xml:space="preserve"><value>Modified</value></data>
+  <data name="DiskPage.Col.Name" xml:space="preserve"><value>Name</value></data>
+  <data name="DiskPage.Col.OnDisk" xml:space="preserve"><value>On disk</value></data>
+  <data name="DiskPage.Col.Share" xml:space="preserve"><value>Share</value></data>
+  <data name="DiskPage.Col.Size" xml:space="preserve"><value>Size</value></data>
+  <data name="DiskPage.Col.Type" xml:space="preserve"><value>Type</value></data>
+  <data name="DiskPage.DeleteForever" xml:space="preserve"><value>Delete permanently…</value></data>
+  <data name="DiskPage.Empty" xml:space="preserve"><value>Pick a drive or folder to see what takes up space</value></data>
+  <data name="DiskPage.FilesFormat" xml:space="preserve"><value>{0:N0} files</value></data>
+  <data name="DiskPage.FoldersFormat" xml:space="preserve"><value>{0:N0} folders</value></data>
+  <data name="DiskPage.Move" xml:space="preserve"><value>Move…</value></data>
+  <data name="DiskPage.NotAdminMessage" xml:space="preserve"><value>Some system folders (System Volume Information, other user profiles, WindowsApps) will be inaccessible.</value></data>
+  <data name="DiskPage.NotAdminTitle" xml:space="preserve"><value>Running without admin rights</value></data>
+  <data name="DiskPage.OpenInExplorer" xml:space="preserve"><value>Open in Explorer</value></data>
+  <data name="DiskPage.Recycle" xml:space="preserve"><value>Move to Recycle Bin</value></data>
+  <data name="DiskPage.RefreshDrives" xml:space="preserve"><value>Refresh drives</value></data>
+  <data name="DiskPage.ScanDrive" xml:space="preserve"><value>Scan drive</value></data>
+  <data name="DiskPage.ScanFolder" xml:space="preserve"><value>Scan folder…</value></data>
+  <data name="DiskPage.ScanIncomplete" xml:space="preserve"><value>Scan not finished</value></data>
+  <data name="DiskPage.Scanning" xml:space="preserve"><value>Scanning</value></data>
+  <data name="DiskPage.Up" xml:space="preserve"><value>Up one level (Backspace)</value></data>
+  <data name="Nav.Cleanup" xml:space="preserve"><value>Cleanup</value></data>
+  <data name="Nav.Disk" xml:space="preserve"><value>Disk space</value></data>
+  <data name="Nav.Registry" xml:space="preserve"><value>Registry</value></data>
+  <data name="Nav.Settings" xml:space="preserve"><value>Settings</value></data>
+  <data name="Nav.Startup" xml:space="preserve"><value>Startup</value></data>
+  <data name="Nav.Tweaks" xml:space="preserve"><value>Tweaks</value></data>
+  <data name="Registry.AppPaths.Description" xml:space="preserve"><value>Run dialog registrations that point to a deleted .exe.</value></data>
+  <data name="Registry.AppPaths.Title" xml:space="preserve"><value>Paths to missing programs (App Paths)</value></data>
+  <data name="Registry.Backup" xml:space="preserve"><value> Backup: {0}</value></data>
+  <data name="Registry.Checking" xml:space="preserve"><value>Checking the registry…</value></data>
+  <data name="Registry.ConfirmButton" xml:space="preserve"><value>Fix</value></data>
+  <data name="Registry.ConfirmRestorePoint" xml:space="preserve"><value>
+A system restore point will be created as well.</value></data>
+  <data name="Registry.ConfirmText" xml:space="preserve"><value>Entries to remove: {0}
+
+{1}
+
+Everything is saved to a .reg file in {2} first — double-click it to bring the entries back.</value></data>
+  <data name="Registry.ConfirmTitle" xml:space="preserve"><value>Fix registry</value></data>
+  <data name="Registry.CreatingRestorePoint" xml:space="preserve"><value>Creating a restore point…</value></data>
+  <data name="Registry.FileAssociations.Description" xml:space="preserve"><value>Open with menu items that lead to deleted programs.</value></data>
+  <data name="Registry.FileAssociations.Title" xml:space="preserve"><value>Open with entries for removed programs</value></data>
+  <data name="Registry.FirewallError" xml:space="preserve"><value>Firewall rules: {0}</value></data>
+  <data name="Registry.FirewallRules.Description" xml:space="preserve"><value>Allow/block firewall rules for programs that no longer exist.</value></data>
+  <data name="Registry.FirewallRules.Title" xml:space="preserve"><value>Firewall rules for removed programs</value></data>
+  <data name="Registry.FixFailed" xml:space="preserve"><value> Failed: {0} ({1}).</value></data>
+  <data name="Registry.Fixed" xml:space="preserve"><value>Fixed: {0}.</value></data>
+  <data name="Registry.InstallerFolders.Description" xml:space="preserve"><value>The Windows Installer folder list contains deleted folders.</value></data>
+  <data name="Registry.InstallerFolders.Title" xml:space="preserve"><value>Installer folders that no longer exist</value></data>
+  <data name="Registry.Missing" xml:space="preserve"><value>Missing: {0}</value></data>
+  <data name="Registry.MuiCache.Description" xml:space="preserve"><value>Harmless name cache; removing it just tidies things up.</value></data>
+  <data name="Registry.MuiCache.Title" xml:space="preserve"><value>Program name cache (MUICache)</value></data>
+  <data name="Registry.NoProblems" xml:space="preserve"><value>No problems found</value></data>
+  <data name="Registry.NothingChanged" xml:space="preserve"><value>Nothing changed: {0}</value></data>
+  <data name="Registry.Removing" xml:space="preserve"><value>Removing entries…</value></data>
+  <data name="Registry.RestorePointFailed" xml:space="preserve"><value>Windows said: {0}
+
+(System Protection may be off, or a restore point was already created in the last 24 hours.)
+
+Continue with the .reg backup only?</value></data>
+  <data name="Registry.RestorePointFailedTitle" xml:space="preserve"><value>Restore point not created</value></data>
+  <data name="Registry.RestorePointName" xml:space="preserve"><value>WinTracer: registry cleanup</value></data>
+  <data name="Registry.Section.Associations" xml:space="preserve"><value>File associations</value></data>
+  <data name="Registry.Section.Firewall" xml:space="preserve"><value>Firewall rules</value></data>
+  <data name="Registry.Section.InstallerFolders" xml:space="preserve"><value>Installer folders</value></data>
+  <data name="Registry.Section.SharedDlls" xml:space="preserve"><value>Shared DLLs</value></data>
+  <data name="Registry.Section.Uninstall" xml:space="preserve"><value>Uninstall entries</value></data>
+  <data name="Registry.SectionsFailed" xml:space="preserve"><value>Couldn't read some sections: {0}</value></data>
+  <data name="Registry.SharedDlls.Description" xml:space="preserve"><value>Shared library records whose files are already deleted.</value></data>
+  <data name="Registry.SharedDlls.Title" xml:space="preserve"><value>Shared DLL counters without files</value></data>
+  <data name="Registry.Summary" xml:space="preserve"><value>Found: {0} · selected: {1}</value></data>
+  <data name="Registry.Uninstall.Description" xml:space="preserve"><value>The program is gone but still shows in Installed apps: no uninstaller, no folder.</value></data>
+  <data name="Registry.Uninstall.Title" xml:space="preserve"><value>Entries of removed programs</value></data>
+  <data name="RegistryPage.AdminMessage" xml:space="preserve"><value>HKEY_LOCAL_MACHINE entries (uninstall, firewall, shared DLLs) are available after restarting as administrator.</value></data>
+  <data name="RegistryPage.AdminTitle" xml:space="preserve"><value>Some entries can only be fixed as admin</value></data>
+  <data name="RegistryPage.FixSelected" xml:space="preserve"><value>Fix selected</value></data>
+  <data name="RegistryPage.Intro" xml:space="preserve"><value>Only entries that point to deleted files and folders.</value></data>
+  <data name="RegistryPage.Rescan" xml:space="preserve"><value>Check again</value></data>
+  <data name="RegistryPage.RestorePoint" xml:space="preserve"><value>Restore point</value></data>
+  <data name="RegistryPage.RestorePointTip" xml:space="preserve"><value>Create a Windows restore point before changes (needs admin rights)</value></data>
+  <data name="Safety.DriveRoot" xml:space="preserve"><value>drive root</value></data>
+  <data name="Safety.ProgramFolder" xml:space="preserve"><value>This is an installed program folder. Better uninstall it via Installed apps, otherwise registry entries, services and shortcuts stay behind.</value></data>
+  <data name="Safety.SystemFolder" xml:space="preserve"><value>system folder</value></data>
+  <data name="Safety.SystemObject" xml:space="preserve"><value>Windows system object</value></data>
+  <data name="Safety.WindowsFolder" xml:space="preserve"><value>Windows system folder — use Cleanup instead</value></data>
+  <data name="Settings.Language.System" xml:space="preserve"><value>Same as Windows</value></data>
+  <data name="Settings.Theme.Dark" xml:space="preserve"><value>Dark</value></data>
+  <data name="Settings.Theme.Light" xml:space="preserve"><value>Light</value></data>
+  <data name="Settings.Theme.System" xml:space="preserve"><value>Same as Windows</value></data>
+  <data name="SettingsPage.About" xml:space="preserve"><value>About</value></data>
+  <data name="SettingsPage.Admin" xml:space="preserve"><value>Administrator rights</value></data>
+  <data name="SettingsPage.AdminHint" xml:space="preserve"><value>Needed for system folders, HKLM, services and Windows cleanup</value></data>
+  <data name="SettingsPage.AlreadyAdmin" xml:space="preserve"><value>Already running as administrator</value></data>
+  <data name="SettingsPage.Language" xml:space="preserve"><value>Language</value></data>
+  <data name="SettingsPage.LanguageHint" xml:space="preserve"><value>Applies after restart</value></data>
+  <data name="SettingsPage.RestartAdmin" xml:space="preserve"><value>Restart as administrator</value></data>
+  <data name="SettingsPage.RestartNow" xml:space="preserve"><value>Restart</value></data>
+  <data name="SettingsPage.Theme" xml:space="preserve"><value>Theme</value></data>
+  <data name="SettingsPage.ThemeHint" xml:space="preserve"><value>Light, dark or same as Windows</value></data>
+  <data name="Startup.DeleteBackup" xml:space="preserve"><value>
+
+A backup will be saved to {0}.</value></data>
+  <data name="Startup.DeleteConfirm" xml:space="preserve"><value>Remove "{0}" from startup?
+
+{1}
+
+</value></data>
+  <data name="Startup.DeleteFailed" xml:space="preserve"><value>Couldn't remove "{0}": {1}</value></data>
+  <data name="Startup.DeleteHint" xml:space="preserve"><value>Usually turning the entry off is enough. Delete it if the program is already uninstalled.</value></data>
+  <data name="Startup.DeleteMissing" xml:space="preserve"><value>The program file is missing — the entry points to nothing.</value></data>
+  <data name="Startup.DeleteTitle" xml:space="preserve"><value>Remove startup entry</value></data>
+  <data name="Startup.Deleted" xml:space="preserve"><value>Entry "{0}" removed. Backup: {1}</value></data>
+  <data name="Startup.Disabled" xml:space="preserve"><value>"{0}" will no longer start with Windows. Takes effect at next sign-in.</value></data>
+  <data name="Startup.Enabled" xml:space="preserve"><value>"{0}" will start with Windows again.</value></data>
+  <data name="Startup.Error.RunKeyMissing" xml:space="preserve"><value>Autostart key not found.</value></data>
+  <data name="Startup.Error.ServiceMissing" xml:space="preserve"><value>Service not found.</value></data>
+  <data name="Startup.Filter.All" xml:space="preserve"><value>All</value></data>
+  <data name="Startup.Filter.Disabled" xml:space="preserve"><value>Disabled</value></data>
+  <data name="Startup.Filter.Enabled" xml:space="preserve"><value>Enabled</value></data>
+  <data name="Startup.Filter.Problems" xml:space="preserve"><value>File missing</value></data>
+  <data name="Startup.Group.Other" xml:space="preserve"><value>Other</value></data>
+  <data name="Startup.Group.Programs" xml:space="preserve"><value>Programs</value></data>
+  <data name="Startup.Group.Services" xml:space="preserve"><value>Third-party services</value></data>
+  <data name="Startup.Group.Tasks" xml:space="preserve"><value>Task Scheduler</value></data>
+  <data name="Startup.NoPublisher" xml:space="preserve"><value>No publisher</value></data>
+  <data name="Startup.Section.Folders" xml:space="preserve"><value>Startup folders</value></data>
+  <data name="Startup.Section.Registry" xml:space="preserve"><value>Registry</value></data>
+  <data name="Startup.Section.Services" xml:space="preserve"><value>Services</value></data>
+  <data name="Startup.Section.Tasks" xml:space="preserve"><value>Task Scheduler</value></data>
+  <data name="Startup.Source.AtBoot" xml:space="preserve"><value>at boot</value></data>
+  <data name="Startup.Source.AtLogon" xml:space="preserve"><value>at logon</value></data>
+  <data name="Startup.Source.FolderAll" xml:space="preserve"><value>Startup folder · all users</value></data>
+  <data name="Startup.Source.FolderUser" xml:space="preserve"><value>Startup folder · current user</value></data>
+  <data name="Startup.Source.RunMachine" xml:space="preserve"><value>Registry · all users</value></data>
+  <data name="Startup.Source.RunMachine32" xml:space="preserve"><value>Registry · all users (32-bit)</value></data>
+  <data name="Startup.Source.RunUser" xml:space="preserve"><value>Registry · current user</value></data>
+  <data name="Startup.Source.ServiceAuto" xml:space="preserve"><value>Service · automatic</value></data>
+  <data name="Startup.Source.ServiceDelayed" xml:space="preserve"><value>Service · delayed start</value></data>
+  <data name="Startup.Source.Task" xml:space="preserve"><value>Task Scheduler · {0}</value></data>
+  <data name="Startup.SourcesFailed" xml:space="preserve"><value>Couldn't read some sources: {0}</value></data>
+  <data name="Startup.Summary" xml:space="preserve"><value>{0} of {1} enabled</value></data>
+  <data name="Startup.SummaryBroken" xml:space="preserve"><value> · broken entries: {0}</value></data>
+  <data name="Startup.ToggleFailed" xml:space="preserve"><value>Couldn't {0} "{1}": {2}</value></data>
+  <data name="Startup.VerbDisable" xml:space="preserve"><value>disable</value></data>
+  <data name="Startup.VerbEnable" xml:space="preserve"><value>enable</value></data>
+  <data name="StartupPage.AdminMessage" xml:space="preserve"><value>All-users entries and services can't be changed without admin rights.</value></data>
+  <data name="StartupPage.AdminTip" xml:space="preserve"><value>Needed for all-users entries and services</value></data>
+  <data name="StartupPage.AdminTitle" xml:space="preserve"><value>Some entries can only be changed as admin</value></data>
+  <data name="StartupPage.BackupsTip" xml:space="preserve"><value>Folder with .reg files and shortcuts of removed entries</value></data>
+  <data name="StartupPage.DeleteTip" xml:space="preserve"><value>Remove entry (with backup)</value></data>
+  <data name="StartupPage.FileMissing" xml:space="preserve"><value>File missing — the entry can be removed</value></data>
+  <data name="StartupPage.Footer" xml:space="preserve"><value> · Turning off doesn't remove the entry, you can turn it back on any time.</value></data>
+  <data name="StartupPage.Loading" xml:space="preserve"><value>Reading registry, scheduler and services…</value></data>
+  <data name="StartupPage.Search" xml:space="preserve"><value>Search by name, publisher or command</value></data>
+  <data name="StartupPage.ShowFile" xml:space="preserve"><value>Show file in Explorer</value></data>
+  <data name="Tweak.perf.dynamic-tick.Description" xml:space="preserve"><value>bcdedit /set disabledynamictick yes — the system timer ticks all the time. Sometimes reduces micro-stutter.</value></data>
+  <data name="Tweak.perf.dynamic-tick.Title" xml:space="preserve"><value>Disable dynamic tick</value></data>
+  <data name="Tweak.perf.dynamic-tick.Warning" xml:space="preserve"><value>Effect is debatable and hardware dependent; raises idle power use.</value></data>
+  <data name="Tweak.perf.game-bar.Description" xml:space="preserve"><value>Stops the Xbox button from opening Game Bar and hides startup tips.</value></data>
+  <data name="Tweak.perf.game-bar.Title" xml:space="preserve"><value>Game Bar doesn't open from the controller</value></data>
+  <data name="Tweak.perf.game-dvr.Description" xml:space="preserve"><value>Xbox Game Bar stops recording the last minutes of gameplay — less GPU and disk load.</value></data>
+  <data name="Tweak.perf.game-dvr.Title" xml:space="preserve"><value>Disable background game recording (Game DVR)</value></data>
+  <data name="Tweak.perf.game-mode.Description" xml:space="preserve"><value>Windows prioritizes the game and doesn't install driver updates while you play.</value></data>
+  <data name="Tweak.perf.game-mode.Title" xml:space="preserve"><value>Game Mode</value></data>
+  <data name="Tweak.perf.hags.Description" xml:space="preserve"><value>The GPU manages its own memory: lower latency, required for DLSS Frame Generation.</value></data>
+  <data name="Tweak.perf.hags.Title" xml:space="preserve"><value>Hardware-accelerated GPU scheduling (HAGS)</value></data>
+  <data name="Tweak.perf.hags.Warning" xml:space="preserve"><value>Needs a GPU and driver with WDDM 2.7+. Older drivers may show artifacts.</value></data>
+  <data name="Tweak.perf.mouse-accel.Description" xml:space="preserve"><value>The cursor moves exactly with the mouse (Enhance pointer precision off). Useful in games.</value></data>
+  <data name="Tweak.perf.mouse-accel.Title" xml:space="preserve"><value>Disable mouse acceleration</value></data>
+  <data name="Tweak.perf.network-throttling.Description" xml:space="preserve"><value>Removes the multimedia packet limit (NetworkThrottlingIndex) and the background CPU reserve (SystemResponsiveness 10%).</value></data>
+  <data name="Tweak.perf.network-throttling.Title" xml:space="preserve"><value>Disable network throttling during playback</value></data>
+  <data name="Tweak.perf.power-throttling.Description" xml:space="preserve"><value>Windows doesn't limit CPU speed for background apps.</value></data>
+  <data name="Tweak.perf.power-throttling.Title" xml:space="preserve"><value>Disable Power Throttling</value></data>
+  <data name="Tweak.perf.power-throttling.Warning" xml:space="preserve"><value>Shortens battery life on laptops.</value></data>
+  <data name="Tweak.perf.startup-delay.Description" xml:space="preserve"><value>Startup apps launch right after sign-in, without the artificial few-second pause.</value></data>
+  <data name="Tweak.perf.startup-delay.Title" xml:space="preserve"><value>Remove startup delay</value></data>
+  <data name="Tweak.perf.ultimate.Description" xml:space="preserve"><value>Creates and activates the hidden Ultimate Performance plan: the CPU doesn't downclock or sleep.</value></data>
+  <data name="Tweak.perf.ultimate.Title" xml:space="preserve"><value>Ultimate Performance power plan</value></data>
+  <data name="Tweak.perf.ultimate.Warning" xml:space="preserve"><value>Not for laptops on battery — power draw and heat go up noticeably.</value></data>
+  <data name="Tweak.privacy.activity.Description" xml:space="preserve"><value>Stops saving and uploading the history of opened apps and documents.</value></data>
+  <data name="Tweak.privacy.activity.Title" xml:space="preserve"><value>Activity history</value></data>
+  <data name="Tweak.privacy.advertising.Description" xml:space="preserve"><value>Turns off the advertising ID, tailored experiences based on diagnostic data and app launch tracking.</value></data>
+  <data name="Tweak.privacy.advertising.Title" xml:space="preserve"><value>Advertising ID and tailored experiences</value></data>
+  <data name="Tweak.privacy.copilot.Description" xml:space="preserve"><value>Windows Copilot off policy, Copilot button on the taskbar, Cortana blocked.</value></data>
+  <data name="Tweak.privacy.copilot.Title" xml:space="preserve"><value>Copilot and Cortana</value></data>
+  <data name="Tweak.privacy.inking.Description" xml:space="preserve"><value>Windows stops collecting handwriting and typing samples, contacts and online speech data.</value></data>
+  <data name="Tweak.privacy.inking.Title" xml:space="preserve"><value>Inking, typing and speech data collection</value></data>
+  <data name="Tweak.privacy.recall.Description" xml:space="preserve"><value>Stops Windows from taking screenshots for Recall and analyzing screen content (Copilot+ PC).</value></data>
+  <data name="Tweak.privacy.recall.Title" xml:space="preserve"><value>Recall and Click to Do</value></data>
+  <data name="Tweak.privacy.spotlight.Description" xml:space="preserve"><value>Turns off Windows Spotlight — rotating backgrounds, tips and ads on the lock screen and desktop.</value></data>
+  <data name="Tweak.privacy.spotlight.Title" xml:space="preserve"><value>Windows Spotlight</value></data>
+  <data name="Tweak.privacy.telemetry.Description" xml:space="preserve"><value>Diagnostic data policy: minimum level, no device name, no feedback prompts.</value></data>
+  <data name="Tweak.privacy.telemetry.Title" xml:space="preserve"><value>Minimal telemetry</value></data>
+  <data name="Tweak.privacy.telemetry.Warning" xml:space="preserve"><value>On Home and Pro, Windows only goes down to Required data — it can't be turned off completely.</value></data>
+  <data name="Tweak.privacy.web-search.Description" xml:space="preserve"><value>Windows Search only searches this PC: no Bing suggestions and no search highlights.</value></data>
+  <data name="Tweak.privacy.web-search.Title" xml:space="preserve"><value>Web search in Start</value></data>
+  <data name="Tweak.ui.ads.Description" xml:space="preserve"><value>Removes Start recommendations, account notifications, Settings suggestions, OneDrive ads in Explorer and silent install of suggested apps.</value></data>
+  <data name="Tweak.ui.ads.Title" xml:space="preserve"><value>Ads and suggestions in Windows</value></data>
+  <data name="Tweak.ui.consumer-features.Description" xml:space="preserve"><value>Microsoft Consumer Experiences policy: Windows won't install games and apps from the Store by itself.</value></data>
+  <data name="Tweak.ui.consumer-features.Title" xml:space="preserve"><value>Auto-install of suggested apps</value></data>
+  <data name="Tweak.ui.end-task.Description" xml:space="preserve"><value>Adds End task to the taskbar icon menu to kill a frozen app without Task Manager.</value></data>
+  <data name="Tweak.ui.end-task.Title" xml:space="preserve"><value>End task on the taskbar</value></data>
+  <data name="Tweak.ui.extensions.Description" xml:space="preserve"><value>So you can see that invoice.pdf.exe is a program, not a document.</value></data>
+  <data name="Tweak.ui.extensions.Title" xml:space="preserve"><value>Show file extensions</value></data>
+  <data name="Tweak.ui.hidden.Description" xml:space="preserve"><value>Explorer shows hidden files and folders (AppData for example).</value></data>
+  <data name="Tweak.ui.hidden.Title" xml:space="preserve"><value>Show hidden files</value></data>
+  <data name="Tweak.ui.this-pc.Description" xml:space="preserve"><value>Explorer shows drives instead of Home with recent files.</value></data>
+  <data name="Tweak.ui.this-pc.Title" xml:space="preserve"><value>Explorer opens This PC</value></data>
+  <data name="Tweak.ui.widgets.Description" xml:space="preserve"><value>Disables widgets (news and weather) by policy and removes the Teams chat icon.</value></data>
+  <data name="Tweak.ui.widgets.Title" xml:space="preserve"><value>Widgets and chat on the taskbar</value></data>
+  <data name="Tweak.upd.delivery.Description" xml:space="preserve"><value>Delivery Optimization downloads only from Microsoft and doesn't upload to other PCs (P2P).</value></data>
+  <data name="Tweak.upd.delivery.Title" xml:space="preserve"><value>Don't share updates with other PCs</value></data>
+  <data name="TweakGroup.Interface" xml:space="preserve"><value>Interface and ads</value></data>
+  <data name="TweakGroup.Performance" xml:space="preserve"><value>Performance and games</value></data>
+  <data name="TweakGroup.Privacy" xml:space="preserve"><value>Privacy</value></data>
+  <data name="TweakGroup.Updates" xml:space="preserve"><value>Updates</value></data>
+  <data name="Tweaks.Applied" xml:space="preserve"><value>"{0}" applied.</value></data>
+  <data name="Tweaks.AppsFailed" xml:space="preserve"><value>Couldn't get the app list: {0}</value></data>
+  <data name="Tweaks.Effect.Explorer" xml:space="preserve"><value>Explorer restart needed</value></data>
+  <data name="Tweaks.Effect.Reboot" xml:space="preserve"><value>Reboot needed</value></data>
+  <data name="Tweaks.Effect.SignOut" xml:space="preserve"><value>Sign out needed</value></data>
+  <data name="Tweaks.Error" xml:space="preserve"><value>"{0}": {1}</value></data>
+  <data name="Tweaks.RemoveConfirm" xml:space="preserve"><value>Remove "{0}" ({1}) for the current user?</value></data>
+  <data name="Tweaks.RemoveFailed" xml:space="preserve"><value>Couldn't remove "{0}": {1}</value></data>
+  <data name="Tweaks.RemoveStore" xml:space="preserve"><value>
+
+You can get it back from Microsoft Store.</value></data>
+  <data name="Tweaks.RemoveTitle" xml:space="preserve"><value>Remove built-in app</value></data>
+  <data name="Tweaks.Removed" xml:space="preserve"><value>"{0}" removed.</value></data>
+  <data name="Tweaks.Reverted" xml:space="preserve"><value>"{0}" reverted — old values restored.</value></data>
+  <data name="Tweaks.State.Partial" xml:space="preserve"><value>Partly applied</value></data>
+  <data name="Tweaks.State.Unknown" xml:space="preserve"><value>State unknown (admin rights needed to check)</value></data>
+  <data name="TweaksPage.Apps" xml:space="preserve"><value>Built-in apps</value></data>
+  <data name="TweaksPage.AppsHint" xml:space="preserve"><value>Removed for the current user, you can get them back from Microsoft Store.</value></data>
+  <data name="TweaksPage.ExplorerNeeded" xml:space="preserve"><value>Restart Explorer to apply the changes.</value></data>
+  <data name="TweaksPage.Intro" xml:space="preserve"><value>Turning a tweak off brings the old values back.</value></data>
+  <data name="TweaksPage.NoApps" xml:space="preserve"><value>None of the listed apps are installed.</value></data>
+  <data name="TweaksPage.RebootNeeded" xml:space="preserve"><value>Reboot needed.</value></data>
+  <data name="TweaksPage.RestartExplorer" xml:space="preserve"><value>Restart Explorer</value></data>
+  <data name="Unit.B" xml:space="preserve"><value>B</value></data>
+  <data name="Unit.GB" xml:space="preserve"><value>GB</value></data>
+  <data name="Unit.KB" xml:space="preserve"><value>KB</value></data>
+  <data name="Unit.MB" xml:space="preserve"><value>MB</value></data>
+  <data name="Unit.PB" xml:space="preserve"><value>PB</value></data>
+  <data name="Unit.TB" xml:space="preserve"><value>TB</value></data>
+</root>
